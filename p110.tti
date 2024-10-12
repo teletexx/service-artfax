@@ -1,34 +1,34 @@
 DE,Topic: Created by user
-DS,muttlee
-SP,/var/www/artfax/p110.tti
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p110.tti
 CT,8,T
 PN,11000
 SC,0000
 PS,8000
 RE,0
-OL,0,                                        
-OL,1,W!                                      
-OL,2,Q !                                     
-OL,3,R  !                                    
-OL,4,V   !                                   
-OL,5,U    !                                  
-OL,6,W     !                                 
-OL,7,Q      !                                
-OL,8,R       !                               
-OL,9,T        !                              
-OL,10,S         !                             
-OL,11,V          !                            
-OL,12,U           !                           
-OL,13,W            !                          
-OL,14,Q             !                         
-OL,15,R              !                        
-OL,16,T               !                    
-OL,17,S                !                      
-OL,18,U                 !                     
-OL,19,V                  !                    
-OL,20,W                   q                   
-OL,21,Q                     q                 
-OL,22,R                       q               
-OL,23,T                         q             
-OL,24,S Next   B....       C....  q   FHelp   
+OL,0,XXXXXXXXWT-FAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q73#35R7ss35S7sskT]C| Wiki |FFacts at  |
+OL,2,Q55555R5 5 5S5=$jT]C| Tel  |Fyour      |
+OL,3,Qussq5Rupqp5SuqpzT]C| Fax  |Ffingertips|
+OL,4,MTemplate                               
+OL,5,Q                                       
+OL,6, ```````````````````````````````````````
+OL,7,CTemplateGhighlights other entries in   
+OL,8,CyellowGwith the first paragraph white. 
+OL,9,F                                       
+OL,10,FSubsequent paragra hs should be cyan.  
+OL,11,FThe last line is reserved for Fastext  
+OL,12, To find out more about editing, press  
+OL,13, theFcyanGbutton.                       
+OL,14,F                                       
+OL,15,F                                       
+OL,16,M  NOW PRESSHESCAPEIAND EDIT THIS   
+OL,17,F                                       
+OL,18,F                                       
+OL,19,F                                       
+OL,20,F                                       
+OL,21,F  PRO TIP: To clear the screen, press  
+OL,22,F           Escape then Z               
+OL,23,F                                       
+OL,24,A Next   B....       C....      FHelp   
 FL,111,8ff,8ff,700,8ff,8ff  
