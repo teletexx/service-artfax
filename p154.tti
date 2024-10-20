@@ -1,5 +1,5 @@
 CT,8,T
-PN,10000
+PN,15400
 SC,0000
 PS,8000
 RE,0
@@ -14,7 +14,6 @@ OL,17,W      U      G ooW           W
 OL,18,W     U       G(v)W     W)!             
 OL,19,W     U  A WU G(m)W Wd$                 
 OL,20,W  U                                    
-FL,8ff,8ff,8ff,8ff,8ff,8ff
 OL,4,W  WOWL CITY`|||t                  
 OL,9,W ~#}                 O  Su    DUDES  
 OL,12,   06:30FPAGES ROM  ARTFAX              
@@ -28,3 +27,4 @@ OL,14,W
 OL,21,                    BHooty              
 OL,22,W                   BOwls               
 OL,23,W                   R        GPage2 --> 
+FL,8ff,8ff,8ff,8ff,8ff,8ff

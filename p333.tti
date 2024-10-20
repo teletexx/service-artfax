@@ -1,8 +1,8 @@
 DE,Topic: Created by user
 DS,Muttlee
-SP,/var/www/private/onair/artfax/p104.tti
+SP,/var/www/private/onair/artfax/p333.tti
 CT,8,T
-PN,10400
+PN,33300
 SC,0000
 PS,8000
 RE,0
@@ -15,7 +15,7 @@ OL,5,
 OL,6,                                        
 OL,7,                                        
 OL,8,                                        
-OL,9,          Your drawing here             
+OL,9,        This is a test page             
 OL,10,                                        
 OL,11,                                        
 OL,12,                                        
@@ -31,4 +31,4 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,A Next   B....       C....      FHelp   
-FL,105,8ff,8ff,700,8ff,8ff  
+FL,334,8ff,8ff,700,8ff,8ff  

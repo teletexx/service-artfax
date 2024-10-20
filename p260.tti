@@ -1,8 +1,8 @@
 DE,Topic: Created by user
 DS,Muttlee
-SP,/var/www/private/onair/artfax/p104.tti
+SP,/var/www/private/onair/artfax/p260.tti
 CT,8,T
-PN,10400
+PN,26000
 SC,0000
 PS,8000
 RE,0
@@ -13,9 +13,9 @@ OL,3,
 OL,4,                                        
 OL,5,                                        
 OL,6,                                        
-OL,7,                                        
+OL,7,         Page 260 Subpage 1             
 OL,8,                                        
-OL,9,          Your drawing here             
+OL,9,                                        
 OL,10,                                        
 OL,11,                                        
 OL,12,                                        
@@ -31,4 +31,11 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,A Next   B....       C....      FHelp   
-FL,105,8ff,8ff,700,8ff,8ff  
+FL,261,8ff,8ff,700,8ff,8ff  
+CT,8,T
+PN,26001
+SC,0001
+PS,8000
+RE,0
+OL,8,     This is page 260 Subpage 2         
+FL,261,8ff,8ff,700,8ff,8ff  
