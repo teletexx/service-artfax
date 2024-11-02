@@ -1,34 +1,34 @@
 DE,Topic: Created by user
-DS,muttlee
-SP,/var/www/artfax/p100.tti
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p100.tti
 CT,8,T
 PN,10000
 SC,0000
 PS,8000
 RE,0
-OL,0,A16XXXXXWT-FAX mpp DAY dd MTH C hh:nn.ss
-OL,1,Q7cs#5R7ss#5S7ss35DC|=---==|F100%      |
-OL,2,Q5=,55R5=l%5S5 5 5TC| Art  |Fverified  |
-OL,3,Quqpq5Ruqpq5Supqp5TC| Fax  |Fart       |
-OL,4,MFARTFAX, hehehehe. I am an artbag.     
-OL,5,Q                                       
-OL,6, ```````````````````````````````````````
-OL,7,GI am an alien from the planet Glarrg!  
-OL,8,MDouble height text is awesome, doods   
-OL,9,                                        
-OL,10,BSubsequent paragraphs should be orange.
-OL,11,GThe last line is reserved for Fastext  
-OL,12,GTo find out more about editing, press  
-OL,13,Gthe cyan button.                       
-OL,14,W A                                     
-OL,15,W                                       
-OL,16,W                                    
-OL,17,WGHello Horsenburger, this isADan!      
-OL,18,WGHow do I toggle screen codes?         
-OL,19,                                       M
-OL,20,  Answer: You don't. You can always     
-OL,21,  "Grab" and view them in another text  
-OL,22,  editor.                               
-OL,23,W                                       
+OL,0,                                        
+OL,1,                                        
+OL,2,                                        
+OL,3,                                        
+OL,4,     MUTTLEE IS UNDER DEVELOPMENT       
+OL,5,                                        
+OL,6,     Any work you do is at risk         
+OL,7,     of being lost or deleted           
+OL,8,                                        
+OL,9,     The server may go down without     
+OL,10,     notice.                            
+OL,11,                                        
+OL,12,     If you need Muttlee in the         
+OL,13,     meanwhile, please book a time      
+OL,14,     with Peter to make sure that it    
+OL,15,     will be running.                   
+OL,16,                                    
+OL,17,                                        
+OL,18,                                        
+OL,19,                                        
+OL,20,                                        
+OL,21,                                        
+OL,22,                                        
+OL,23,                                        
 OL,24,A Next   B....       C....      FHelp   
 FL,101,8ff,8ff,700,8ff,8ff  

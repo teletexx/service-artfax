@@ -1,15 +1,15 @@
 DE,Topic: Created by user
-DS,muttlee
-SP,/var/www/artfax/p888.tti
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p888.tti
 CT,8,T
 PN,88800
 SC,0000
 PS,8000
 RE,0
-OL,0,                                        
-OL,1,                                        
-OL,2,                                        
-OL,3,                                        
+OL,0,                                         
+OL,1,                                        at  |
+OL,2,                                         |
+OL,3,                                        tips|
 OL,4,                                        
 OL,5,                                        
 OL,6,                                        
@@ -24,11 +24,26 @@ OL,14,
 OL,15,                                        
 OL,16,                                    
 OL,17,                                        
-OL,18,                                        
+OL,18,     MCYou understand the problem?          
 OL,19,                                        
-OL,20,M    eastwards, bringing some rain      
+OL,20,    MC     Orac has intercepted         
 OL,21,                                        
-OL,22,M    along the Nazi ghosts.             
+OL,22,     MC Federation transmissions        
 OL,23,                                        
-OL,24,                                        
+OL,24,A Next   B....       C....      FHelp   
+FL,889,8ff,8ff,700,8ff,8ff  
+CT,8,T
+PN,88801
+SC,0001
+PS,8000
+RE,0
+OL,22,   MCWe know what happened to Keller    
+FL,889,8ff,8ff,700,8ff,8ff  
+CT,8,T
+PN,88802
+SC,0002
+PS,8000
+RE,0
+OL,20,  MCWe know what happened on            
+OL,22, MC   Virn five years ago               
 FL,889,8ff,8ff,700,8ff,8ff  

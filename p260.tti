@@ -1,0 +1,43 @@
+DE,Topic: Created by user
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p260.tti
+CT,8,T
+PN,26000
+SC,0000
+PS,8000
+RE,0
+OL,0,                                        
+OL,1,                                        
+OL,2,                                        
+OL,3,                                        
+OL,4,                                        
+OL,5,                                        
+OL,6,                                        
+OL,7,         Page 260 Subpage 1             
+OL,8,                                        
+OL,9,                                        
+OL,10,                                        
+OL,11,   VI MADE A VBIRD )!                   
+OL,12,                                        
+OL,13,                                        
+OL,14,                                        
+OL,15,   QI MADE A SECOND VBIRD )!            
+OL,16,                                    
+OL,17,                                        
+OL,18,  Kono eki wa shiroi desu.              
+OL,19,                                        
+OL,20,                                        
+OL,21,                                        
+OL,22,                                        
+OL,23,                                        
+OL,24,A Next   B....       C....      FHelp   
+FL,261,8ff,8ff,700,8ff,8ff  
+CT,8,T
+PN,26001
+SC,0001
+PS,8000
+RE,0
+OL,8,     This is page 260 Subpage 2         
+OL,13,   R)!GGreen VBIRD on subpage 2R)!      
+FL,261,8ff,8ff,700,8ff,8ff  
+

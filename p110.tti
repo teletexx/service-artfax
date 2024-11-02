@@ -1,34 +1,34 @@
 DE,Topic: Created by user
-DS,muttlee
-SP,/var/www/artfax/p110.tti
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p110.tti
 CT,8,T
 PN,11000
 SC,0000
 PS,8000
 RE,0
 OL,0,                                        
-OL,1,W!                                      
-OL,2,Q !                                     
-OL,3,R  !                                    
-OL,4,V   !                                   
-OL,5,U    !                                  
-OL,6,W     !                                 
-OL,7,Q      !                                
-OL,8,R       !                               
-OL,9,T        !                              
-OL,10,S         !                             
-OL,11,V          !                            
-OL,12,U           !                           
-OL,13,W            !                          
-OL,14,Q             !                         
-OL,15,R              !                        
-OL,16,T               !                    
-OL,17,S                !                      
-OL,18,U                 !                     
-OL,19,V                  !                    
-OL,20,W                   q                   
-OL,21,Q                     q                 
-OL,22,R                       q               
-OL,23,T                         q             
-OL,24,S Next   B....       C....  q   FHelp   
+OL,1,                                        
+OL,2,                                        
+OL,3,                                        
+OL,4,                                        
+OL,5,                                        
+OL,6,       V)!d$   )!                       
+OL,7,                                        
+OL,8,                                        
+OL,9,                                        
+OL,10,                                        
+OL,11,                                        
+OL,12,                                        
+OL,13,                                        
+OL,14,                                        
+OL,15,                                        
+OL,16,                                    
+OL,17,                                        
+OL,18,                                        
+OL,19,                                        
+OL,20,                                        
+OL,21,                                        
+OL,22,                                        
+OL,23,                                        
+OL,24,A Next   B....       C....      FHelp   
 FL,111,8ff,8ff,700,8ff,8ff  
