@@ -9,7 +9,7 @@ RE,0
 OL,0,                                        
 OL,1,MGCAROUSEL GUIDE                    1/n     
 OL,2,                                        
-OL,3,``````````````````````                  
+OL,3,````````````````````````````````````````
 OL,4,F In viewing mode the page number       
 OL,5,F looks like this:                      
 OL,6,                                        
@@ -21,14 +21,24 @@ OL,11,  number after the dot is the subpage:
 OL,12,                                        
 OL,13,C600.00                                 
 OL,14,````````````````````````````````````````
-OL,15,  If there are more subpages then you   
-OL,16,  can use Page Up and Page Down to  
-OL,17,  cycle through them.                   
+OL,15,F If there are more subpages then you   
+OL,16,F can use Page Up and Page Down to  
+OL,17,F cycle through them.                   
 OL,18,                                        
-OL,19,                                        
-OL,20,                                        
+OL,19,C600.01                                 
+OL,20,````````````````````````````````````````
 OL,21,                                        
 OL,22,                                        
 OL,23,                                        
 OL,24,A Next   B....       C....      FHelp   
+FL,601,8ff,8ff,700,8ff,8ff  
+CT,8,T
+PN,60001
+SC,0001
+PS,8000
+RE,0
+OL,1,M CAROUSEL GUIDE                     2/n
+OL,3,````````````````````````````````````````
+OL,4,F To add and remove subpages, press     
+OL,5,F Insert and Delete. You can then use   
 FL,601,8ff,8ff,700,8ff,8ff  
