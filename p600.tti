@@ -1,4 +1,4 @@
-DE,Placeholder
+DE,Carousel guide
 DS,Muttlee
 SP,/var/www/private/onair/artfax/p600.tti
 CT,8,T
@@ -7,7 +7,7 @@ SC,0000
 PS,8000
 RE,0
 OL,0,                                        
-OL,1,MGCAROUSEL GUIDE                    1/n     
+OL,1,MGCAROUSEL GUIDE                     1/2    
 OL,2,                                        
 OL,3,````````````````````````````````````````
 OL,4,F In viewing mode the page number       
@@ -37,7 +37,7 @@ PN,60001
 SC,0001
 PS,8000
 RE,0
-OL,1,M CAROUSEL GUIDE                     2/n
+OL,1,M CAROUSEL GUIDE                     2/2
 OL,3,````````````````````````````````````````
 OL,4,F To add and remove subpages, press     
 OL,5,F Insert and Delete. You can then use   
@@ -53,4 +53,9 @@ OL,14,  need to edit the repo. PeterK or any
 OL,15,  admin can do that for you. User       
 OL,16,  editable timings are on my TODO list. 
 OL,17,````````````````````````````````````````
+OL,18,F Carousels can not be exported to any  
+OL,19,F other teletext editor except wxTED.   
+OL,20,F For use with vbit2, export these as   
+OL,21,F tti or grab them direct from the repo.
+OL,22,````````````````````````````````````````
 FL,601,8ff,8ff,700,8ff,8ff  
