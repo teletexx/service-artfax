@@ -10,18 +10,18 @@ OL,0,
 OL,1,MGWelcome to the carousel guide             
 OL,2,                                        
 OL,3,                                        
-OL,4,                                        
-OL,5,                                        
+OL,4,  In viewing mode the page number       
+OL,5,  looks like this:                      
 OL,6,                                        
-OL,7,                                        
+OL,7, P600                                   
 OL,8,                                        
-OL,9,                                        
-OL,10,                                        
-OL,11,                                        
+OL,9,  When you press ESC the format of the  
+OL,10,  page number changes to yellow. The    
+OL,11,  number after the dot is the subpage:  
 OL,12,                                        
-OL,13,                                        
+OL,13,C600.00                                 
 OL,14,                                        
-OL,15,                                        
+OL,15,  If there are more subpages then you   
 OL,16,                                    
 OL,17,                                        
 OL,18,                                        
