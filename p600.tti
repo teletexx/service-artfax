@@ -41,4 +41,16 @@ OL,1,M CAROUSEL GUIDE                     2/n
 OL,3,````````````````````````````````````````
 OL,4,F To add and remove subpages, press     
 OL,5,F Insert and Delete. You can then use   
+OL,6,F Page Up and Page Down to flick        
+OL,7,F between the subpages                  
+OL,8,````````````````````````````````````````
+OL,9,  If you want to see the pages cycle    
+OL,10,  you can press ESC until the page      
+OL,11,  number returns to white. The carousel 
+OL,12,  speed is eight seconds by default.    
+OL,13,  If you want to change it then you     
+OL,14,  need to edit the repo. PeterK or any  
+OL,15,  admin can do that for you. User       
+OL,16,  editable timings are on my TODO list. 
+OL,17,````````````````````````````````````````
 FL,601,8ff,8ff,700,8ff,8ff  
