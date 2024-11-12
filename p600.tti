@@ -6,7 +6,7 @@ PN,60000
 SC,0000
 PS,8000
 RE,0
-OL,0,                                        
+OL,0,        TEEFAX mpp DAY dd MTH  Chh:nn:ss
 OL,1,MGCAROUSEL GUIDE                     1/2    
 OL,2,                                        
 OL,3,````````````````````````````````````````
