@@ -1,4 +1,4 @@
-DE,Topic: Created by user
+DE,Muttlee magazine 9
 DS,Muttlee
 SP,/var/www/private/onair/artfax/p900.tti
 CT,8,T
@@ -6,6 +6,7 @@ PN,90000
 SC,0000
 PS,8000
 RE,0
+LK,
 OL,0,XXXXXXXXWT-FAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q73#35R7ss35S7sskT]C| Wiki |FFacts at  |
 OL,2,Q55555R5 5 5S5=$jT]C| Tel  |Fyour      |
@@ -28,7 +29,7 @@ OL,18,F
 OL,19,F                                       
 OL,20,F                                       
 OL,21,FThis page is locked but feel free to   
-OL,22,F                                       
+OL,22,Fedit other pages.                      
 OL,23,F                                       
 OL,24,A Next   B....       C....      FHelp   
 FL,901,8ff,8ff,700,8ff,8ff  
