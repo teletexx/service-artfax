@@ -1,4 +1,4 @@
-DG,you cant say bum on teletext
+DE,TEST You can't say Bum on teletext
 PN,13400
 SC,0000
 PS,8000
@@ -22,3 +22,4 @@ OL,18,      Qffffffffffff
 OL,19,    Qffffffffffffffff                   
 OL,20,   Qffffffffffffffffff                  
 FL,8ff,8ff,8ff,8ff,8ff,8ff
+RM,2,UNEXPECTED OL. MARKED FOR DELETION
