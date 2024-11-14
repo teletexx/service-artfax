@@ -1,3 +1,4 @@
+DE,Skeleton Snapper
 CT,8,T
 PN,13300
 SC,0000
@@ -17,4 +18,4 @@ OL,11,W W        %
 OL,13,W          0k            5              
 OL,19,W                                       
 FL,8ff,8ff,8ff,8ff,8ff,8ff
-OL,0,                                        
+RM,2,UNEXPECTED OL. MARKED FOR DELETION
