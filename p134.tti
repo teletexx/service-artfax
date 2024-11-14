@@ -1,3 +1,4 @@
+DG,you cant say bum on teletext
 PN,13400
 SC,0000
 PS,8000
@@ -20,9 +21,4 @@ OL,17,          Qffff
 OL,18,      Qffffffffffff                     
 OL,19,    Qffffffffffffffff                   
 OL,20,   Qffffffffffffffffff                  
-FL,8ff,8ff,8ff,8ff,8ff,8ff                                      
-RM,2,UNEXPECTED OL. MARKED FOR DELETION
-RM,2,UNEXPECTED OL. MARKED FOR DELETION
-RM,2,UNEXPECTED OL. MARKED FOR DELETION
-RM,2,UNEXPECTED OL. MARKED FOR DELETION
-RM,2,UNEXPECTED OL. MARKED FOR DELETION
+FL,8ff,8ff,8ff,8ff,8ff,8ff
