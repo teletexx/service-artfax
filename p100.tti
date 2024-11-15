@@ -6,7 +6,7 @@ PN,10000
 SC,0000
 PS,8000
 RE,0
-OL,0,jk                                      
+OL,0,jk     AARTFAX                 Chh:nn:ss
 OL,1,                                        
 OL,2,     You are viewing ARTFAX, for live   
 OL,3,     collaboration of teletext art.     
@@ -26,7 +26,7 @@ OL,16,
 OL,17,FAny page marked "Placeholder" is       
 OL,18,Favailable for you to draw in.          
 OL,19,                                        
-OL,20,                                        
+OL,20, The Artfax repo is at                  
 OL,21, github.com/teletexx/service-artfax.git 
 OL,22,                                        
 OL,23,                                        
