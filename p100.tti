@@ -6,28 +6,28 @@ PN,10000
 SC,0000
 PS,8000
 RE,0
-OL,0,jk     AARTFAX                 Chh:nn:ss
+OL,0,                                        
 OL,1,                                        
-OL,2,     You are viewing ARTFAX, for live   
-OL,3,     collaboration of teletext art.     
+OL,2, Jääkiekko                              
+OL,3,                                        
 OL,4,                                        
-OL,5,     Muttlee is under development.      
-OL,6,     Any work you do is at risk         
-OL,7,     of being lost or deleted           
+OL,5,                                        
+OL,6,                                        
+OL,7,                                        
 OL,8,                                        
-OL,9,     The server may go down without     
-OL,10,     notice.                            
+OL,9,                                        
+OL,10,                                        
 OL,11,                                        
-OL,12,     If you need Muttlee in the         
-OL,13,     meanwhile, please book a time      
-OL,14,     with Peter to make sure that it    
-OL,15,     will be running.                   
-OL,16,                                    
-OL,17,FAny page marked "Placeholder" is       
-OL,18,Favailable for you to draw in.          
+OL,12,                                        
+OL,13,                                        
+OL,14,                                        
+OL,15,                                        
+OL,16,                                                                            
+OL,17,                                        
+OL,18,                                        
 OL,19,                                        
-OL,20, The Artfax repo is at                  
-OL,21, github.com/teletexx/service-artfax.git 
+OL,20,                                        
+OL,21,                                        
 OL,22,                                        
 OL,23,                                        
 OL,24,A Next   B....       C....      FHelp   
