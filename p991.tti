@@ -1,34 +1,25 @@
 DE,Topic: Created by user
-DS,Muttlee
-SP,/var/www/private/onair/artfax/p991.tti
-CT,8,T
-PN,99100
+PN,19900
 SC,0000
 PS,8000
-RE,0
-OL,0,                                        
-OL,1,MD]CPAGE ENHANCEMENTS                   
-OL,2,                                        
-OL,3,S vssssssssssssssssssssssssssssssssssss 
-OL,4,S 5                                    j
-OL,5,     Default screen colour              
-OL,6,                                        
-OL,7,     Default row colour                 
-OL,8,                                        
-OL,9,     CLUT remapping                     
-OL,10,                                        
-OL,11,     Black background colour subs.      
-OL,12,                                        
-OL,13,    CSide panels                        
-OL,14,                                        
-OL,15,     Left columns                       
-OL,16,                                                                            
-OL,17,     Right columns                      
-OL,18,                                        
-OL,19,                                        
-OL,20,                                        
-OL,21,                                        
-OL,22,                                        
-OL,23,                                        
+CT,8,T
+OL,1,MD]CPAGE ENHANCEMENTS-X/28/0 format 1   
+OL,3,S vsCColoursSssssssssssssssssssssssssssy
+OL,4,S 5                       QSj
+OL,5,S 5G Default screen colourQSj
+OL,6,S 5                       RSj
+OL,7,S 5G Default row colour   RSj
+OL,8,S 5                                   Sj
+OL,9,S 5 GCLUT remapping        Fg 2, Bg 2 Sj
+OL,10,S 5                                    j
+OL,11,S 5 GBlk background sub.D]YECYES      Sj
+OL,12,S 5                                   Sj
+OL,13,S wsCSide panelsSssssssssssssssssssssss{
+OL,14,S 5                                    j
+OL,15,S 5 GLeft columns             0       Sj
+OL,16,S 5                                   Sj
+OL,17,S 5 GRight columns            0       Sj
+OL,18,S uppppppppppppppppppppppppppppppppppppz
+OL,19,S ),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,&
 OL,24,A Next   B....       C....      FHelp   
-FL,992,8ff,8ff,700,8ff,8ff  
+FL,192,8ff,8ff,700,8ff,8ff
