@@ -13,9 +13,9 @@ OL,3,S vssssssssssssssssssssssssssssssssssss
 OL,4,S 5                                    j
 OL,5,     Default screen colour              
 OL,6,                                        
-OL,7,                                        
+OL,7,     Default row colour                 
 OL,8,                                        
-OL,9,                                        
+OL,9,     CLUT remapping                     
 OL,10,                                        
 OL,11,                                        
 OL,12,                                        
