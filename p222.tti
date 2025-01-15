@@ -13,5 +13,5 @@ OL,7,  Remapping Foreground 2, Background 3
 OL,9,  Default screen colour : CLUT 3:6 7ff  
 OL,10,  Default row colour    : CLUT 1:4 007  
 OL,11,  Text colour           : CLUT 2:7 cc8  
-OL,13,  Left side panel columns   : 9         
-OL,14,  Right side panels columns : 7         
+OL,13,  Left side panel columns  : 9          
+OL,14,  Right side panel columns : 7          
