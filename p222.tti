@@ -15,3 +15,4 @@ OL,10,  Default row colour    : CLUT 1:4 007
 OL,11,  Text colour           : CLUT 2:7 cc8  
 OL,13,  Left side panel columns  : 9          
 OL,14,  Right side panel columns : 7          
+OL,0,        MUT                             
