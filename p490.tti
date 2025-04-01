@@ -7,5 +7,6 @@ SC,0000
 PS,8000
 RE,0
 OL,0,X                                       
+OL,8,        THIS IS A ROW OF TEXT           
 undefinedOL,28,                                        
 FL,491,8ff,8ff,700,8ff,8ff  
