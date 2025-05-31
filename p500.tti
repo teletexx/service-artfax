@@ -14,10 +14,10 @@ OL,4,
 OL,5,                                        
 OL,6,                                        
 OL,7,         This has no cursor?            
-OL,8,                                        
-OL,9,                                        
-OL,10,                                        
-OL,11,                                        
+OL,8,         Second line of textCwww        
+OL,9,         Third line of text in Dblue    
+OL,10,         Fourth line of text in Fcyan   
+OL,11,         Fifth ine is Emagenta          
 OL,12,                                        
 OL,13,                                        
 OL,14,                                        
