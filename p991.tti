@@ -21,5 +21,7 @@ OL,16,S 5                                   Sj
 OL,17,S 5 GRight columns            0       Sj
 OL,18,S uppppppppppppppppppppppppppppppppppppz
 OL,19,S ),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,&
+OL,21,xThis shows what the X28 page editor    
+OL,22, looks like.                            
 OL,24,A Next   B....       C....      FHelp   
 FL,192,8ff,8ff,700,8ff,8ff
