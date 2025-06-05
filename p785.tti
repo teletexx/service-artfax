@@ -1,4 +1,4 @@
-DE,Topic: Created by user
+DE,Test page - please reuse
 DS,Muttlee
 SP,/var/www/private/onair/artfax/p785.tti
 CT,8,T
@@ -9,13 +9,13 @@ RE,0
 OL,0,                                        
 OL,1,                                        
 OL,2,                                        
-OL,3,                                        
-OL,4,                                        
-OL,5,                                        
-OL,6,                                        
-OL,7,                                        
-OL,8,                                        
-OL,9,                                        
+OL,3,      Ared                              
+OL,4,      Bgreen                            
+OL,5,      Cyellow                           
+OL,6,      Dblue                             
+OL,7,      Emagenta                          
+OL,8,       cyan                             
+OL,9,      Gwhite                            
 OL,10,                                        
 OL,11,                                        
 OL,12,                                        
