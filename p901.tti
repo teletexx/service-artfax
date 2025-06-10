@@ -10,16 +10,16 @@ OL,0,
 OL,28,@@@@@O@E\P@W@Lt[A`UR_wLC`XBX@Hf@dPF`{N@H
 OL,1,                                        
 OL,2,                                        
-OL,3,                                        
-OL,4,       Placeholder                      
-OL,5,       You can edit this page           
+OL,3,       CLUT remap mode 1                
+OL,4,       If there two shades of red on    
+OL,5,       this page, t this page           
 OL,6,                                        
 OL,7,   ARed text]GRed background            
-OL,8,                                        
+OL,8,           QREDFOREGROUND           
 OL,9,                                        
 OL,10,                                        
-OL,11,                                        
-OL,12,                                        
+OL,11,    Using CLUT 1 we can mute the        
+OL,12,    background colours                  
 OL,13,                                        
 OL,14,                                        
 OL,15,                                        
