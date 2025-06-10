@@ -12,7 +12,7 @@ OL,1,
 OL,2,                                        
 OL,3,       CLUT remap mode 1                
 OL,4,       If there two shades of red on    
-OL,5,       this page, t this page           
+OL,5,       this page, then X28 is working   
 OL,6,                                        
 OL,7,   ARed text]GRed background            
 OL,8,           QREDFOREGROUND           
