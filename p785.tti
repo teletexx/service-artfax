@@ -8,14 +8,14 @@ PS,8000
 RE,0
 OL,28,@@ppPpxPDaHrxpxpxpxpxpx@qPD`HuxpxpxpxpHO
 OL,1,                                        
-OL,2,       CLUT 0  CLUT 1                   
-OL,3,QAred     ]                        
-OL,4,RBgreen   ]                        
-OL,5,      Cyellow  ]                        
-OL,6,      Dblue    ]                        
-OL,7,      Emagenta ]                        
-OL,8,      Fcyan    ]                        
-OL,9,      Gwhite   ]                        
+OL,2, CLUT 0        CLUT 1                   
+OL,3,QAred     ] dark red               
+OL,4,RBgreen   ] dark green             
+OL,5,SCyellow  ] dark yellow            
+OL,6,TDblue    ] dark blue              
+OL,7,UEmagenta ] burgundy               
+OL,8,VFcyan    ]                        
+OL,9,WGwhite   ] grey                   
 OL,10,                                        
 OL,11,                                        
 OL,12,                                        
