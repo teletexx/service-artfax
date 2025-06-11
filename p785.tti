@@ -6,16 +6,16 @@ PN,78500
 SC,0000
 PS,8000
 RE,0
-OL,28,@@ppPptPDaHrtptptptptpt@ioHutptptptpp|
+OL,28,@@ppPpxPDaHrxpxpxpxpxpx@qPD`HuxpxpxpxpHO
 OL,1,                                        
-OL,2,                                        
-OL,3,      Ared                              
-OL,4,      Bgreen                            
-OL,5,      Cyellow                           
-OL,6,      Dblue                             
-OL,7,      Emagenta                          
-OL,8,       cyan                             
-OL,9,      Gwhite                            
+OL,2,       CLUT 0  CLUT 1                   
+OL,3,QAred     ]                        
+OL,4,RBgreen   ]                        
+OL,5,      Cyellow  ]                        
+OL,6,      Dblue    ]                        
+OL,7,      Emagenta ]                        
+OL,8,      Fcyan    ]                        
+OL,9,      Gwhite   ]                        
 OL,10,                                        
 OL,11,                                        
 OL,12,                                        
