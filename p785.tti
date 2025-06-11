@@ -9,13 +9,13 @@ RE,0
 OL,28,@@ppPpxPDaHrxpxpxpxpxpx@qPD`HuxpxpxpxpHO
 OL,1,                                        
 OL,2, CLUT 0        CLUT 1                   
-OL,3,QAred     ] dark red               
-OL,4,RBgreen   ] dark green             
-OL,5,SCyellow  ] dark yellow            
-OL,6,TDblue    ] dark blue              
-OL,7,UEmagenta ] burgundy               
-OL,8,VFcyan    ]                        
-OL,9,WGwhite   ] grey                   
+OL,3,QAred     ] maroon                 
+OL,4,RBgreen   ] laurel                 
+OL,5,SCyellow  ] olive                  
+OL,6,TDblue    ]Fnavy blue              
+OL,7,UEmagenta ] aubergine              
+OL,8,VFcyan    ] pine                   
+OL,9,WGwhite   ] boulder                
 OL,10,                                        
 OL,11,                                        
 OL,12,                                        
@@ -32,3 +32,4 @@ OL,22,
 OL,23,                                        
 OL,24,A Next   B....       C....      FHelp   
 FL,786,8ff,8ff,700,8ff,8ff  
+RM,2,UNEXPECTED OL. MARKED FOR DELETION
