@@ -12,13 +12,13 @@ OL,2,
 OL,3,                                        
 OL,4,  Hex colour                            
 OL,5,                                        
-OL,6,  X28 uses three digit hex numbers for  
+OL,6,  We use three digit hex numbers for    
 OL,7,  colours. 000 is black and fff is      
 OL,8,  white.                                
 OL,9,                                        
-OL,10,                                        
-OL,11,                    ble of the colour   
-OL,12,  value. eg. Goldenrod is _aa520 . The  
+OL,10,  To                                    
+OL,11,                 nybble of the colour   
+OL,12,  value. eg. Goldenrod is _daa520. The  
 OL,13,  teletext value would be _da2          
 OL,14,                                        
 OL,15,                                        
