@@ -18,10 +18,10 @@ OL,7,
 OL,8,    Choosing colours is a bit more      
 OL,9,    complicated when using X28.         
 OL,10,                                        
-OL,11,A]  There are colour lookup tables and  
-OL,12,    these contain 12 bit colours. There 
-OL,13,    are also controls for which tables  
-OL,14,    used.                               
+OL,11,A]G There are colour lookup tables and  
+OL,12,A]GGthese contain 12 bit colours. There 
+OL,13,A]CGare also controls to select which   
+OL,14,A]CGtables are used.                    
 OL,15,                                        
 OL,16,    There are endless restriction on how                                    
 OL,17,    the colours can be used but with    
