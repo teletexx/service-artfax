@@ -14,12 +14,12 @@ OL,4,   Packet 28 is a level 2.5 enhancement
 OL,5,   that allows more colours to be used  
 OL,6,   on a teletext page.                  
 OL,7,                                        
-OL,8,   Choosing colours                     
-OL,9,                                        
+OL,8,   Choosing colours is a bit more       
+OL,9,   complicated when using X28.          
 OL,10,                                        
-OL,11,                                        
-OL,12,                                        
-OL,13,                                        
+OL,11,   There are colour lookup tables and   
+OL,12,   these contain 12 bit colours. There  
+OL,13,   are also controls for which table    
 OL,14,                                        
 OL,15,                                        
 OL,16,                                                                            
