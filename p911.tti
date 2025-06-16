@@ -7,13 +7,13 @@ SC,0000
 PS,8000
 RE,0
 OL,0,                                        
-OL,1,                                        
+OL,1,MD]CPacket 28 - Jargon                  
 OL,2,                                        
 OL,3,                                        
-OL,4,                                        
+OL,4,  Hex colour                            
 OL,5,                                        
-OL,6,                                        
-OL,7,                                        
+OL,6,  X28 uses three digit hex numbers for  
+OL,7,  colours.                              
 OL,8,                                        
 OL,9,                                        
 OL,10,                                        
