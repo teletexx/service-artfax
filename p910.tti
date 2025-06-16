@@ -10,11 +10,11 @@ OL,0,
 OL,1, MD]CPacket 28 colour                   
 OL,2,                                        
 OL,3,                                        
-OL,4,                                        
-OL,5,                                        
-OL,6,                                        
+OL,4,   Packet 28 is a level 2.5 enhancement 
+OL,5,   that allows more colours to be used  
+OL,6,   on a teletext page.                  
 OL,7,                                        
-OL,8,                                        
+OL,8,   Choosing colours                     
 OL,9,                                        
 OL,10,                                        
 OL,11,                                        
