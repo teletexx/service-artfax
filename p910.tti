@@ -7,26 +7,27 @@ SC,0000
 PS,8000
 RE,0
 OL,0,                                        
+OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@H
 OL,1, MD]CPacket 28 colour                   
 OL,2,                                        
 OL,3,                                        
-OL,4,   Packet 28 is a level 2.5 enhancement 
-OL,5,   that allows more colours to be used  
-OL,6,   on a teletext page.                  
+OL,4,    Packet 28 is a level 2.5 enhancement
+OL,5,    that allows more colours to be used 
+OL,6,    on a teletext page.                 
 OL,7,                                        
-OL,8,   Choosing colours is a bit more       
-OL,9,   complicated when using X28.          
+OL,8,    Choosing colours is a bit more      
+OL,9,    complicated when using X28.         
 OL,10,                                        
-OL,11,   There are colour lookup tables and   
-OL,12,   these contain 12 bit colours. There  
-OL,13,   are also controls for which table    
-OL,14,                                        
+OL,11,A]  There are colour lookup tables and  
+OL,12,    these contain 12 bit colours. There 
+OL,13,    are also controls for which tables  
+OL,14,    used.                               
 OL,15,                                        
-OL,16,                                                                            
-OL,17,                                        
-OL,18,                                        
-OL,19,                                        
-OL,20,                                        
+OL,16,    There are endless restriction on how                                    
+OL,17,    the colours can be used but with    
+OL,18,    determination, you can probably get 
+OL,19,    seventeen different colours on one  
+OL,20,    page.                               
 OL,21,                                        
 OL,22,                                        
 OL,23,                                        
