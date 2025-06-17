@@ -6,9 +6,9 @@ PN,91100
 SC,0000
 PS,8000
 RE,0
-OL,28,@@@@@O@u_@|WkBpZA`UB_wLs_w}ww]_}_wM@P
+OL,28,@@@@@O@u_A|WkBp_AaUB_wLs_w}ww]_}_wM@P
 OL,28,@@@@@Cu_@|WkBpZA`UB_wLs_w}ww]_}_wM@P
-OL,1,MD]CPacket 28 - Jargon                  
+OL,1,MD]CPacket 28 - Jargon 1                
 OL,2,                                        
 OL,3,                                        
 OL,4,  Hex colour                            
@@ -23,7 +23,7 @@ OL,12,  other nybble. For example, goldenrod
 OL,13,  is _daa520 so the teletext colour     
 OL,14,  becomes _da2                          
 OL,15,                                        
-OL,16,C]This is goldenrod                                                         
+OL,16,C]@This is goldenrod                                                        
 OL,17,                                        
 OL,18,                                        
 OL,19,                                        
@@ -32,4 +32,11 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,A Next   B....       C....      FHelp   
+FL,912,8ff,8ff,700,8ff,8ff  
+CT,8,T
+PN,91101
+SC,0001
+PS,8000
+RE,0
+OL,1,D]MCPacket 28 - Jargon 2                
 FL,912,8ff,8ff,700,8ff,8ff  
