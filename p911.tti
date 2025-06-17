@@ -16,7 +16,7 @@ OL,6,  We use three digit hex numbers for
 OL,7,  colours. 000 is black and fff is      
 OL,8,  white.                                
 OL,9,                                        
-OL,10,  To                                    
+OL,10,  To convert a web colour               
 OL,11,                 nybble of the colour   
 OL,12,  value. eg. Goldenrod is _daa520. The  
 OL,13,  teletext value would be _da2          
