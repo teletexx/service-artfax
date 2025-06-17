@@ -6,7 +6,8 @@ PN,91100
 SC,0000
 PS,8000
 RE,0
-OL,0,                                        
+OL,28,@@@@@O@u_@|WkBpZA`UB_wLs_w}ww]_}_wM@P
+OL,28,@@@@@Cu_@|WkBpZA`UB_wLs_w}ww]_}_wM@P
 OL,1,MD]CPacket 28 - Jargon                  
 OL,2,                                        
 OL,3,                                        
@@ -18,11 +19,11 @@ OL,8,  white.
 OL,9,                                        
 OL,10,  To convert a web colour to teletext   
 OL,11,  take the hex value and remove every   
-OL,12,  other nybble.For example, goldenrod   
+OL,12,  other nybble. For example, goldenrod  
 OL,13,  is _daa520 so the teletext colour     
 OL,14,  becomes _da2                          
 OL,15,                                        
-OL,16,                                                                            
+OL,16,C]This is goldenrod                                                         
 OL,17,                                        
 OL,18,                                        
 OL,19,                                        
