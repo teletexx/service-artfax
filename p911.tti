@@ -39,20 +39,21 @@ SC,0001
 PS,8000
 RE,0
 OL,1,D]MCPacket 28 - Jargon 2                
-OL,4,  Colour lookup table                   
-OL,6,  The standard colours are              
+OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,4,  Colour lookup table (CLUT)            
+OL,6,  The colours in CLUT 0 are:            
 OL,7,  0 - black 1 - red 2 - green 3 - yellow
-OL,8,  4 - blue 5 - magenta 6 - cyan 7 - whie
-OL,9,                                        
-OL,10,xy2 - green                             
-OL,11,xy3 - yellow                            
-OL,12,                                        
-OL,13,                                        
-OL,14,                                        
+OL,8,  4 - blue 5 - magenta 6 - cyan         
+OL,9,  7 - white                             
+OL,10,                                        
+OL,11,  There are three more CLUTS.           
+OL,12,  CLUT 1 has darker colours             
+OL,13,  CLUT 2 has mixed colours              
+OL,14,  CLUT 3 has lighter colours            
 OL,15,                                        
-OL,16,                                        
-OL,17,                                        
-OL,18,                                        
+OL,16,  The colours of CLUT 0 and CLUT 1 are  
+OL,17,  fixed. You can change CLUT 2 and      
+OL,18,  CLUT 3                                
 OL,19,                                        
 OL,20,                                        
 OL,21,                                        
