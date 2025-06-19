@@ -13,17 +13,17 @@ OL,3,
 OL,4, To enter packet 28 editing mode the    
 OL,5, Muttlee command is Esc-X               
 OL,6,                                        
-OL,7, This displays the                      
-OL,8,                                        
-OL,9,                                        
-OL,10,                                        
+OL,7, This displays the packet enhancement   
+OL,8, pages. One page is the palette         
+OL,9, editor and the other controls how the  
+OL,10, colours are used.                      
 OL,11,                                        
-OL,12,                                        
-OL,13,                                        
+OL,12, To select control pages use page up    
+OL,13, and page down.                         
 OL,14,                                        
-OL,15,                                        
+OL,15, For a context hint, click on a number. 
 OL,16,                                                                            
-OL,17,                                        
+OL,17, If you are on an editable field you ca 
 OL,18,                                        
 OL,19,                                        
 OL,20,                                        
