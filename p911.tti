@@ -8,9 +8,9 @@ PS,8000
 RE,0
 OL,28,@@@@@O@u_A|WkBp_AaUB_wLs_w}ww]_}_wM@P
 OL,28,@@@@@Cu_@|WkBpZA`UB_wLs_w}ww]_}_wM@P
-OL,1,MD]CPacket 28 - Jargon 1                
+OL,1,MD]CPacket 28 - Jargon                  
 OL,2,                                        
-OL,3,                                        
+OL,3,                                     1/2
 OL,4,  Hex colour                            
 OL,5,                                        
 OL,6,  We use three digit hex numbers for    
@@ -39,6 +39,7 @@ SC,0001
 PS,8000
 RE,0
 OL,1,D]MCPacket 28 - Jargon 2                
+OL,3,xyzzy                                2/2
 OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
 OL,4,  Colour lookup table (CLUT)            
 OL,6,  The colours in CLUT 0 are:            
