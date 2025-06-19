@@ -10,24 +10,24 @@ OL,0,
 OL,1,C]MAPacket 28 - Muttlee command         
 OL,2,                                        
 OL,3,                                        
-OL,4, Esc-X enters packet 28 editing mode.   
+OL,4,BEsc-XGenters packet 28 editing mode.   
 OL,5,                                        
 OL,6, This displays the packet enhancement   
 OL,7, pages. One page is the palette         
 OL,8, editor and the other controls how the  
 OL,9, colours are used.                      
 OL,10,                                        
-OL,11, PageUp goes to the next edit screen    
-OL,12, PageDn goes to the previous edit screen
+OL,11,BPageUpGgoes to the next edit screen    
+OL,12,BPageDnGgoes to the previous edit screen
 OL,13,                                        
-OL,14, Click on a number to edit it.          
-OL,15,                                        
-OL,16, If you are on an editable field you can                                    
-OL,17, use TAB to jump to the next field.     
-OL,18,                                        
-OL,19, To exit, type x to save and exit or q  
-OL,20, to quit.                               
-OL,21,                                        
+OL,14, Click on an edit field to edit it.     
+OL,15, If you are on                          
+OL,16,                                                                            
+OL,17,BTABGjumps to the next editable field   
+OL,18, but only if you are already on a field.
+OL,19,                                        
+OL,20,BxGsaves and exits                      
+OL,21,BqGquits without saving.                
 OL,22,                                        
 OL,23,                                        
 OL,24,A Next   B....       C....      FHelp   
