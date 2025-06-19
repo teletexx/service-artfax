@@ -8,7 +8,7 @@ PS,8000
 RE,0
 OL,28,@@@@@O@u_A|WkBp_AaUB_wLs_w}ww]_}_wM@P
 OL,28,@@@@@Cu_@|WkBpZA`UB_wLs_w}ww]_}_wM@P
-OL,1,MD]CPacket 28 - Jargon                  
+OL,1,MD]CPacket 28 - Hex colour              
 OL,2,                                        
 OL,3,                                     1/2
 OL,4,  Hex colour                            
@@ -38,7 +38,7 @@ PN,91101
 SC,0001
 PS,8000
 RE,0
-OL,1,D]MCPacket 28 - Jargon                  
+OL,1,D]MCPacket 28 - CLUT                    
 OL,3,                                     2/2
 OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
 OL,4,  Colour lookup table (CLUT)            
@@ -47,16 +47,16 @@ OL,7,  0 - black 1 - red 2 - green 3 - yellow
 OL,8,  4 - blue 5 - magenta 6 - cyan         
 OL,9,  7 - white                             
 OL,10,                                        
-OL,11,  There are three more CLUTS.           
-OL,12,  CLUT 0 is the default                 
+OL,11,  The CLUTs have these colours:         
+OL,12,  CLUT 0 is default colours             
 OL,13,  CLUT 1 has darker colours             
 OL,14,  CLUT 2 has mixed colours              
 OL,15,  CLUT 3 has lighter colours            
 OL,16,                                        
 OL,17,  The colours of CLUT 0 and CLUT 1 are  
 OL,18,  fixed. You can change CLUTu can       
-OL,19,  set any colours                       
-OL,20,                                        
+OL,19,  set any colours that you want in      
+OL,20,  CLUT 2 and CLUT 3                     
 OL,21,                                        
 OL,22,                                        
 OL,23,                                        
