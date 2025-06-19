@@ -7,13 +7,13 @@ SC,0000
 PS,8000
 RE,0
 OL,0,                                        
-OL,1,C]MAPacket 28 - Mutt                    
+OL,1,C]MAPacket 28 - Muttlee command         
 OL,2,                                        
 OL,3,                                        
-OL,4,                                        
-OL,5,                                        
+OL,4, To enter packet 28 editing mode the    
+OL,5, Muttlee command is Esc-X               
 OL,6,                                        
-OL,7, See what happens to this               
+OL,7, This displays the                      
 OL,8,                                        
 OL,9,                                        
 OL,10,                                        
