@@ -1,4 +1,4 @@
-DE,Please edit this page
+DE,CLUT 1 test
 DS,Muttlee
 SP,/var/www/private/onair/artfax/p901.tti
 CT,8,T
@@ -15,7 +15,7 @@ OL,4,       If there two shades of red on
 OL,5,       this page, then X28 is working   
 OL,6,                                        
 OL,7,   ARed text]GRed background            
-OL,8,           QREDFOREGROUND           
+OL,8,           QRED FOREGROUND          
 OL,9,                                        
 OL,10,                                        
 OL,11,    Using CLUT 1 we can darken the      
