@@ -42,8 +42,8 @@ OL,1,D]MCPacket 28 - CLUT
 OL,3,                                     2/2
 OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
 OL,4,  Colour lookup table (CLUT)            
-OL,6,  The colours in CLUT 0 are:            
-OL,7,  0 - black 1 - red 2 - green 3 - yellow
+OL,6,  Each CLUT contains eight colours.     
+OL,7,  The colours are numbered 0 to 7.      
 OL,8,  4 - blue 5 - magenta 6 - cyan         
 OL,9,  7 - white                             
 OL,10,                                        
@@ -54,9 +54,9 @@ OL,14,  CLUT 2 has mixed colours
 OL,15,  CLUT 3 has lighter colours            
 OL,16,                                        
 OL,17,  The colours of CLUT 0 and CLUT 1 are  
-OL,18,  fixed. You can set CLUT 2 and n       
-OL,19,  set any colours that you want in      
-OL,20,  CLUT 2 and CLUT 3                     
+OL,18,  fixed. You can set CLUT 2 and 3       
+OL,19,  colours to anything you want.         
+OL,20,                                        
 OL,21,                                        
 OL,22,                                        
 OL,23,                                        
