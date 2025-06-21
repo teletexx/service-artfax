@@ -26,7 +26,7 @@ OL,15,
 OL,16,C]@This is goldenrod                                                        
 OL,17,                                        
 OL,18,                                        
-OL,19,     U                                  
+OL,19,                                        
 OL,20,                                        
 OL,21,                                        
 OL,22,                                        
@@ -43,21 +43,21 @@ OL,3,                                     2/2
 OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
 OL,4,  Colour lookup table (CLUT)            
 OL,6,  Each CLUT contains eight colours.     
-OL,7,  The colours are numbered 0 to 7.      
-OL,8,  4 - blue 5 - magenta 6 - cyan         
-OL,9,  7 - white                             
-OL,10,                                        
-OL,11,  The CLUTs have these colours:         
-OL,12,  CLUT 0 is default colours             
-OL,13,  CLUT 1 has darker colours             
-OL,14,  CLUT 2 has mixed colours              
-OL,15,  CLUT 3 has lighter colours            
-OL,16,                                        
-OL,17,  The colours of CLUT 0 and CLUT 1 are  
-OL,18,  fixed. You can set CLUT 2 and 3       
-OL,19,  colours to anything you want.         
-OL,20,                                        
+OL,7,  There are four CLUTs 0 to 3.          
+OL,8,                                        
+OL,9,  The CLUTs have these colours:         
+OL,10,  CLUT 0 is default colours             
+OL,11,  CLUT 1 has darker colours             
+OL,12,  CLUT 2 has mixed colours              
+OL,13,  CLUT 3 has lighter colours            
+OL,14,                                        
+OL,15,  The colours of CLUT 0 and CLUT 1 are  
+OL,16,  fixed. You can set CLUT 2 and 3       
+OL,17,  colours to anything you want.         
+OL,18,                                        
+OL,19,  Originally teletext pages only used   
+OL,20,  the colours in CLUT 0.                
 OL,21,                                        
-OL,22,                                        
-OL,23,                                        
+OL,22,  Using packet 28 to remap the CLUTs    
+OL,23,  we can access the extra colours.      
 FL,912,8ff,8ff,700,8ff,8ff  
