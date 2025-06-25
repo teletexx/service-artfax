@@ -10,7 +10,7 @@ OL,28,@@@@@O@u_A|WkBp_AaUB_wLs_w}ww]_}_wM@P
 OL,28,@@@@@Cu_@|WkBpZA`UB_wLs_w}ww]_}_wM@P
 OL,1,MD]CPacket 28 - Hex colour              
 OL,2,                                        
-OL,3,                                     1/2
+OL,3,                                     1/3
 OL,4,  Hex colour                            
 OL,5,                                        
 OL,6,  We use three digit hex numbers for    
@@ -39,7 +39,7 @@ SC,0001
 PS,8000
 RE,0
 OL,1,D]MCPacket 28 - CLUT                    
-OL,3,                                     2/2
+OL,3,                                     2/3
 OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
 OL,4,  Colour lookup table (CLUT)            
 OL,6,  Each CLUT contains eight colours.     
@@ -249,4 +249,17 @@ RM,3,UNEXPECTED OL. MARKED FOR DELETION
 RM,3,UNEXPECTED OL. MARKED FOR DELETION
 RM,3,UNEXPECTED OL. MARKED FOR DELETION
 RM,3,UNEXPECTED OL. MARKED FOR DELETION
+FL,912,8ff,8ff,700,8ff,8ff  
+CT,8,T
+PN,91102
+SC,0002
+PS,8000
+RE,0
+OL,1,MD]CPacket 28 - CLUT remap              
+OL,3,xyzzy                                3/3
+OL,4,xyThe colours of the other CLUTs are    
+OL,5,xymade available by remapping.          
+OL,21,x6zzy                                   
+OL,22,x7zzy                                   
+OL,24,ANext                                   
 FL,912,8ff,8ff,700,8ff,8ff  
