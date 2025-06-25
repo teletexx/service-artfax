@@ -260,22 +260,22 @@ OL,3,xyzzy                                3/3
 OL,4,xyThe colours of the other CLUTs are    
 OL,5,xymade available by remapping. There are
 OL,6,xyeight remapping schemes available.    
-OL,7,  Each remapping defines a f            
-OL,8,                                        
-OL,9,  0: Fg 0, Bg 0                         
-OL,10,                                        
+OL,7,  Each remapping defines a foreground   
+OL,8,  and a background CLUT pair.           
+OL,9,                                        
+OL,10, CCLUT RemapBForegroundFBackground      
 OL,11,                                        
-OL,12,                                        
-OL,13,                                        
-OL,14,                                        
-OL,15,                                        
-OL,16, 0                                      
-OL,17, 1                                      
-OL,18, 2                                      
-OL,19, 3                                      
-OL,20, 4                                      
-OL,21, 5                                      
-OL,22, 6                                      
-OL,23, 7                                      
+OL,12, C0          0          0               
+OL,13, C1          0          1               
+OL,14, C2          0          2               
+OL,15, C3          1          1               
+OL,16, C4          1          2               
+OL,17, C5          2          1               
+OL,18, C6          2          2               
+OL,19, C7          2          3               
+OL,20,                                        
+OL,21,                                        
+OL,22,                                        
+OL,23,                                        
 OL,24,ANext                                   
 FL,912,8ff,8ff,700,8ff,8ff  
