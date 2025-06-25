@@ -45,19 +45,82 @@ OL,4,  Colour lookup table (CLUT)
 OL,6,  Each CLUT contains eight colours.     
 OL,7,  There are four CLUTs 0 to 3.          
 OL,8,                                        
-OL,9,  The CLUTs have these colours:         
-OL,10,  CLUT 0 is default colours             
-OL,11,  CLUT 1 has darker colours             
-OL,12,  CLUT 2 has mixed colours              
-OL,13,  CLUT 3 has lighter colours            
+OL,9,  CLUT 0 has the default colours and    
+OL,10,  the can not be changed.               
+OL,11,                                        
+OL,12,  CLUT 1 has darker colours and also can
+OL,13,  not be changed                        
 OL,14,                                        
-OL,15,  The colours of CLUT 0 and CLUT 1 are  
-OL,16,  fixed. You can set CLUT 2 and 3       
-OL,17,  colours to anything you want.         
-OL,18,                                        
-OL,19,  Originally teletext pages only used   
-OL,20,  the colours in CLUT 0.                
-OL,21,                                        
-OL,22,  Using packet 28 to remap the CLUTs    
-OL,23,  we can access the extra colours.      
+OL,15,                                        
+OL,16,  The colours of CLUT 0 and CLUT 1 are  
+OL,17,  fixed. You can set CLUT 2 and 3       
+OL,18,  colours to anything you want.         
+OL,19,                                        
+OL,20,  Originally teletext pages only used   
+OL,21,  the colours in CLUT 0.                
+OL,22,                                        
+OL,23,  Using packet 28 to remap the CLUTs    
+FL,912,8ff,8ff,700,8ff,8ff  
+DE,Topic: Created by user
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p911.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETION
+SC,0000
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+FL,912,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETION
+SC,0001
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
+RM,3,UNEXPECTED OL. MARKED FOR DELETION
 FL,912,8ff,8ff,700,8ff,8ff  
