@@ -256,10 +256,10 @@ SC,0002
 PS,8000
 RE,0
 OL,1,MD]CPacket 28 - CLUT remap              
-OL,3,xyzzy                                3/3
-OL,4,xyThe colours of the other CLUTs are    
-OL,5,xymade available by remapping. There are
-OL,6,xyeight remapping schemes available.    
+OL,3,                                     3/3
+OL,4,  The colours of the other CLUTs are    
+OL,5,  made available by remapping. There are
+OL,6,  eight remapping schemes available.    
 OL,7,  Each remapping defines a foreground   
 OL,8,  and a background CLUT pair.           
 OL,9,                                        
@@ -275,7 +275,7 @@ OL,18, C6         B2         F2
 OL,19, C7         B2         F3               
 OL,20,                                        
 OL,21,  Option 0 is the standard              
-OL,22,                                        
+OL,22,  CLUT 3 can onlasb backgroun.          
 OL,23,                                        
 OL,24,ANext                                   
 FL,912,8ff,8ff,700,8ff,8ff  
