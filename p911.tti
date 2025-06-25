@@ -1,4 +1,5 @@
-DE,Topic: Created by user
+RM,2,UNEXPECTED OL. MARKED FOR DELETION
+DE,Packet 28 description
 DS,Muttlee
 SP,/var/www/private/onair/artfax/p911.tti
 CT,8,T
@@ -61,7 +62,7 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 FL,912,8ff,8ff,700,8ff,8ff  
-DE,Topic: Created by user
+DE,Packet 28 description
 DS,Muttlee
 SP,/var/www/private/onair/artfax/p911.tti
 CT,8,T
@@ -124,7 +125,7 @@ RM,3,UNEXPECTED OL. MARKED FOR DELETION
 RM,3,UNEXPECTED OL. MARKED FOR DELETION
 RM,3,UNEXPECTED OL. MARKED FOR DELETION
 FL,912,8ff,8ff,700,8ff,8ff  
-DE,Topic: Created by user
+DE,Packet 28 description
 DS,Muttlee
 SP,/var/www/private/onair/artfax/p911.tti
 CT,8,T
@@ -187,7 +188,7 @@ RM,3,UNEXPECTED OL. MARKED FOR DELETION
 RM,3,UNEXPECTED OL. MARKED FOR DELETION
 RM,3,UNEXPECTED OL. MARKED FOR DELETION
 FL,912,8ff,8ff,700,8ff,8ff  
-DE,Topic: Created by user
+DE,Packet 28 description
 DS,Muttlee
 SP,/var/www/private/onair/artfax/p911.tti
 CT,8,T
@@ -275,7 +276,7 @@ OL,18, C6         B2         F2
 OL,19, C7         B2         F3               
 OL,20,                                        
 OL,21,  Option 0 is the standard              
-OL,22,  CLUT 3 can onlasb backgroun.          
+OL,22,  CLUT 3 can only be used as background.
 OL,23,                                        
 OL,24,ANext                                   
 FL,912,8ff,8ff,700,8ff,8ff  
