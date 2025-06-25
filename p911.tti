@@ -265,16 +265,16 @@ OL,8,  and a background CLUT pair.
 OL,9,                                        
 OL,10, CCLUT RemapBForegroundFBackground      
 OL,11,                                        
-OL,12, C0          0          0               
-OL,13, C1          0          1               
-OL,14, C2          0          2               
-OL,15, C3          1          1               
-OL,16, C4          1          2               
-OL,17, C5          2          1               
-OL,18, C6          2          2               
-OL,19, C7          2          3               
+OL,12, C0         B0         F0               
+OL,13, C1         B0         F1               
+OL,14, C2         B0         F2               
+OL,15, C3         B1         F1               
+OL,16, C4         B1         F2               
+OL,17, C5         B2         F1               
+OL,18, C6         B2         F2               
+OL,19, C7         B2         F3               
 OL,20,                                        
-OL,21,                                        
+OL,21,  Option 0 is the standard              
 OL,22,                                        
 OL,23,                                        
 OL,24,ANext                                   
