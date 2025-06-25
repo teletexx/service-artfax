@@ -258,8 +258,24 @@ RE,0
 OL,1,MD]CPacket 28 - CLUT remap              
 OL,3,xyzzy                                3/3
 OL,4,xyThe colours of the other CLUTs are    
-OL,5,xymade available by remapping.          
-OL,21,x6zzy                                   
-OL,22,x7zzy                                   
+OL,5,xymade available by remapping. There are
+OL,6,xyeight remapping schemes available.    
+OL,7,  Each remapping defines a f            
+OL,8,                                        
+OL,9,  0: Fg 0, Bg 0                         
+OL,10,                                        
+OL,11,                                        
+OL,12,                                        
+OL,13,                                        
+OL,14,                                        
+OL,15,                                        
+OL,16, 0                                      
+OL,17, 1                                      
+OL,18, 2                                      
+OL,19, 3                                      
+OL,20, 4                                      
+OL,21, 5                                      
+OL,22, 6                                      
+OL,23, 7                                      
 OL,24,ANext                                   
 FL,912,8ff,8ff,700,8ff,8ff  
