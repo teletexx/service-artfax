@@ -6,7 +6,7 @@ PN,10200
 SC,0000
 PS,8000
 RE,0
-OL,0,XXXXXXXXWT-FAX mpp DAY dd MTH C hh:nn.ss
+OL,0,XXXXXXXXArtfax mpp DAY dd MTH C hh:nn.ss
 OL,1,W                 ppppppp||t
 OL,2,W              x~7
 OL,3,W             ~?y<pl|<p"'

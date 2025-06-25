@@ -6,7 +6,7 @@ PN,91000
 SC,0000
 PS,8000
 RE,0
-OL,0,       AArtfax mpp DAY mpp      hh nn ss
+OL,0,       AArtfax mpp DAY dd MTH   hh:nn.ss
 OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@H
 OL,1, MD]CPacket 28 colour                   
 OL,2,                                        
