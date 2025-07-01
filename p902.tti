@@ -25,8 +25,8 @@ OL,15,W]                    G
 OL,16,W                                                                           
 OL,17,P                     H                 
 OL,18,P                                       
-OL,19,                                        
-OL,20,                                        
+OL,19, Using CLUT 2 for foreground and CLUT 3 
+OL,20, background colours.                    
 OL,21,                                        
 OL,22,                                        
 OL,23,                                        
