@@ -45,6 +45,10 @@ OL,8,xyNotes:
 OL,10,xyClut 1 is a darkened set of the       
 OL,11,  standard colours. These colours are   
 OL,12,  fixed and can not be changed.         
+OL,13,xy                                      
+OL,14,xyColour 0 is the transparent colour    
+OL,15,xyand is used to show the video signal  
+OL,16,  underneath.                           
 FL,922,8ff,8ff,700,8ff,8ff  
 CT,8,T
 PN,92102
