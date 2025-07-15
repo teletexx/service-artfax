@@ -73,6 +73,11 @@ RM,2,UNEXPECTED OL. MARKED FOR DELETION
 RM,2,UNEXPECTED OL. MARKED FOR DELETION
 RM,2,UNEXPECTED OL. MARKED FOR DELETION
 RM,2,UNEXPECTED OL. MARKED FOR DELETION
+RM,2,UNEXPECTED OL. MARKED FOR DELETION
+RM,2,UNEXPECTED OL. MARKED FOR DELETION
+RM,2,UNEXPECTED OL. MARKED FOR DELETION
+RM,2,UNEXPECTED OL. MARKED FOR DELETION
+RM,2,UNEXPECTED OL. MARKED FOR DELETION
 DE,Packet 28 CLUT
 DS,Muttlee
 SP,/var/www/private/onair/artfax/p921.tti
@@ -145,16 +150,18 @@ PN,92103
 SC,0003
 PS,8000
 RE,0
-OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@|
 OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@x
-OL,4,@]]@0 333 A]C1 f77 B]F2 7f7 C]D3 ff7  \ 
-OL,6, D]C4 77f E]C5 f7f F]E6 7ff G]D7 ddd  \ 
+OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@x
+OL,4,@]]C0 333 A]C1 f77 B]F2 7f7 C]E3 ff7  \ 
+OL,6, D]C4 77f E]C5 f7f F]E6 7ff G]E7 ddd  \ 
 OL,8,  Notes:                                
 OL,10,  CLUT 3 colours may all be changed.    
 OL,11,  However, they can only be used as     
 OL,12,  background colours against CLUT 2     
 OL,13,  foreground.                           
 FL,922,8ff,8ff,700,8ff,8ff  
+RM,2,UNEXPECTED OL. MARKED FOR DELETION
+RM,2,UNEXPECTED OL. MARKED FOR DELETION
 RM,2,UNEXPECTED OL. MARKED FOR DELETION
 RM,2,UNEXPECTED OL. MARKED FOR DELETION
 RM,2,UNEXPECTED OL. MARKED FOR DELETION
