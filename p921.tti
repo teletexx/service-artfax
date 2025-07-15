@@ -38,6 +38,7 @@ PS,8000
 RE,0
 OL,1,          L                             
 OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@L
+OL,1,012345678901234567889012345678901234567890
 OL,3,                                     2/4
 OL,4,    0 tr  A]G1 700 B]G2 070 C]G3 770  \ 
 OL,6, D]G4 007 E]G5 707 F]G6 077 G]G7 777  \ 
@@ -70,10 +71,11 @@ SC,0003
 PS,8000
 RE,0
 OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@x
+OL,1,01234567890123456789012345678901234567890
 OL,4,@]]C0 333 A]C1 f77 B]F2 7f7 C]E3 ff7  \ 
 OL,6, D]C4 77f E]C5 f7f F]E6 7ff G]E7 ddd  \ 
 OL,8, CNotes:                                
 OL,10, CCLUT 3 colours may all be changed.    
 OL,11, CHowever, they can only be used as     
 OL,12, Cbackground colours against CLUT 2     
-OL,13, Cforeground.                         
+OL,13, Cforegrouine 1 subpage 1                                                     
