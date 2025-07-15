@@ -8,16 +8,16 @@ PS,8000
 OL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,MD]CPacket 28 - CLUT 0 TBA              
 OL,2,                                        
-OL,3,                                        
-OL,4,    0     A]G1     B]D2     C]D4      \ 
+OL,3,                                     1/4
+OL,4,    0 000 A]G1 f00 B]D2 0f0 C]D4 ff0  \ 
 OL,5,                                        
-OL,6,DT]G4    UE]G5     F]D6F]   G]D7W]    \ 
+OL,6,DT]G4 00fUE]G5 f0f F]D6 0ff G]D7 fff  \ 
 OL,7,                                        
 OL,8,  Notes:                                
 OL,9,                                        
-OL,10,  CLUT 0                                
-OL,11,                                        
-OL,12,                                        
+OL,10,  CLUT 0 is the default teletext set.   
+OL,11,  The colours are fixed and can not be  
+OL,12,  changed.                              
 OL,13,                                        
 OL,14,                                        
 OL,15,                                        
