@@ -15,10 +15,10 @@ OL,6,  colours and character sets. Here are
 OL,7,  some pages with examples of how to    
 OL,8,  use these features.                   
 OL,9,                                        
-OL,10,  921  Colour Look Up Tables            
-OL,11,  922  Specifying colours               
-OL,12,  923  Other control bits               
-OL,13,  924  Using X/28 in Muttlee            
+OL,10, C921.GColour Look Up Tables            
+OL,11, C922.GSpecifying colours               
+OL,12, C923.GOther control bits               
+OL,13, C924.GUsing X/28 in Muttlee            
 OL,14,                                        
 OL,15,                                        
 OL,16,                                        
