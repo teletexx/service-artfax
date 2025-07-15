@@ -104,7 +104,9 @@ PS,8000
 RE,0
 OL,1,MD]CPacket 28 - CLUT 2                  
 OL,3,                                     3/4
-OL,6,D]zzy                                   
+OL,6, D]G4 xxx                               
+OL,8,xyNotes:                                
+OL,10,xyCLUT 2 colours are all changeable.    
 FL,922,8ff,8ff,700,8ff,8ff  
 CT,8,T
 PN,92103
@@ -115,4 +117,7 @@ OL,3,                                     4/4
 OL,6,xD]zy                                   
 OL,8,xyNotes:                                
 OL,10,xyCLUT 3 colours may all be changed.    
+OL,11,xyHowever, they can only be used as     
+OL,12,  background colours against CLUT 2     
+OL,13,  foreground.                           
 FL,922,8ff,8ff,700,8ff,8ff  
