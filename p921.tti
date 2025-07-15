@@ -36,10 +36,11 @@ PN,92101
 SC,0001
 PS,8000
 RE,0
-OL,1,MD]CPacket 28 - CLUT 1                  
+OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@L
+OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@\
 OL,3,xyzzy                                2/4
-OL,4,xyzz0 tr  A]G1     B]D2     C]D3 xxx    
-OL,6,xD]G4 xxx E]G5 xxx F]D6 xxx G]D7 xxx    
+OL,4,xyzz0 tr  A]G1 xxx B]G2 xxx C]G3 xxx    
+OL,6,xD]G4 xxx E]G5 xxx F]G6 xxx G]G7 xxx    
 OL,8,xyNotes:                                
 OL,10,xyClut 1 is a darkened set of the       
 OL,11,  standard colours. These colours are   
