@@ -70,6 +70,7 @@ PN,92103
 SC,0003
 PS,8000
 RE,0
+OL,1,M                                       
 OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@x
 OL,1,01234567890123456789012345678901234567890
 OL,4,@]]C0 333 A]C1 f77 B]F2 7f7 C]E3 ff7  \ 
@@ -78,4 +79,4 @@ OL,8, CNotes:
 OL,10, CCLUT 3 colours may all be changed.    
 OL,11, CHowever, they can only be used as     
 OL,12, Cbackground colours against CLUT 2     
-OL,13, Cforegrouine 1 subpage 1                                                     
+OL,13,D]CPacket 28 - CLUT 3                                                         
