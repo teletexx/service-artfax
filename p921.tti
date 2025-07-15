@@ -103,11 +103,14 @@ SC,0002
 PS,8000
 RE,0
 OL,1,MD]CPacket 28 - CLUT 2                  
+OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@P
 OL,3,                                     3/4
-OL,4,    0 xxx A]G1 xxx B]D2 xxx C]D3 xxx    
-OL,6, D]G4 xxx E]G5 xxx F]A6 xxx G]D7 xxx    
+OL,4,    0 f02 A]G1 f70 B]D2 0f7 C]D3 ffb    
+OL,6, D]G4 0ca E]G5 500 F]G6 652 G]G7 c77    
 OL,8,xyNotes:                                
-OL,10,xyCLUT 2 colours are all changeable.    
+OL,10,xyCLUT 2 colours are all changeable     
+OL,11,xyAll of the colours can be changed and 
+OL,12,xyused as foreground or background.     
 FL,922,8ff,8ff,700,8ff,8ff  
 CT,8,T
 PN,92103
@@ -122,3 +125,4 @@ OL,11,xyHowever, they can only be used as
 OL,12,  background colours against CLUT 2     
 OL,13,  foreground.                           
 FL,922,8ff,8ff,700,8ff,8ff  
+RM,2,UNEXPECTED OL. MARKED FOR DELETION
