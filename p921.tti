@@ -47,7 +47,8 @@ OL,12,  fixed and can not be changed.
 OL,13,                                        
 OL,14,  Colour 0 is the transparent colour    
 OL,15,  and is used to show the video signal  
-OL,16,  underneath.                           
+OL,16,ine 1 subpage 1                         
+OL,1,L                                       
 FL,922,8ff,8ff,700,8ff,8ff  
 CT,8,T
 PN,92102
