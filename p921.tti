@@ -36,6 +36,7 @@ PN,92101
 SC,0001
 PS,8000
 RE,0
+OL,1,          L                             
 OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@L
 OL,3,                                     2/4
 OL,4,    0 tr  A]G1 700 B]G2 070 C]G3 770  \ 
@@ -75,5 +76,4 @@ OL,8, CNotes:
 OL,10, CCLUT 3 colours may all be changed.    
 OL,11, CHowever, they can only be used as     
 OL,12, Cbackground colours against CLUT 2     
-OL,13, Cforeground.                           
-FL,922,8ff,8ff,700,8ff,8ff  
+OL,13, Cforeground.                         
