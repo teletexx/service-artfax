@@ -38,9 +38,27 @@ PS,8000
 RE,0
 OL,1,MD]CPacket 28 - CLUT 1                  
 OL,3,xyzzy                                2/4
-OL,4,xyzz0 tr  A]G1        2        3        
+OL,4,xyzz0 tr  A]G1     B]D2     C]D3 xxx    
+OL,6,xD]G4 xxx E]G5 xxx F]D6 xxx G]D7 xxx    
 OL,8,xyNotes:                                
 OL,10,xyClut 1 is a darkened set of the       
 OL,11,  standard colours. These colours are   
 OL,12,  fixed and can not be changed.         
+FL,922,8ff,8ff,700,8ff,8ff  
+CT,8,T
+PN,92102
+SC,0002
+PS,8000
+RE,0
+OL,1,MD]CPacket 28 - CLUT 2                  
+OL,3,xyzzy                                3/4
+OL,6,D]zzy                                   
+FL,922,8ff,8ff,700,8ff,8ff  
+CT,8,T
+PN,92103
+SC,0003
+PS,8000
+RE,0
+OL,3,xyzzy                                4/4
+OL,6,xD]zy                                   
 FL,922,8ff,8ff,700,8ff,8ff  
