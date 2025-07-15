@@ -9,13 +9,13 @@ OL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,MD]CPacket 28 - CLUT 0 TBA              
 OL,2,                                        
 OL,3,                                        
-OL,4,]A0                                     
+OL,4,    0     A]G1     B]D2     C]D4      \ 
 OL,5,                                        
-OL,6,DT]G1    UE]G5     F]D6F]   G]  W]   ]  
-OL,7,  .        .       .        .           
-OL,8,  123456789123456789123456789123456789  
+OL,6,DT]G4    UE]G5     F]D6F]   G]D7W]    \ 
+OL,7,                                        
+OL,8,  Notes:                                
 OL,9,                                        
-OL,10,                                        
+OL,10,  CLUT 0                                
 OL,11,                                        
 OL,12,                                        
 OL,13,                                        
