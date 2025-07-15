@@ -105,7 +105,7 @@ RE,0
 OL,1,MD]CPacket 28 - CLUT 2                  
 OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@P
 OL,3,                                     3/4
-OL,4,    0 f02 A]G1 f70 B]D2 0f7 C]D3 ffb    
+OL,4,    0 f02 A]G1 f70 B]D2 0f7 C]D3 ffb  \ 
 OL,6, D]G4 0ca E]G5 500 F]G6 652 G]G7 c77  \ 
 OL,8,xyNotes:                                
 OL,10,xyCLUT 2 colours are all changeable     
@@ -117,8 +117,9 @@ PN,92103
 SC,0003
 PS,8000
 RE,0
-OL,3,                                     4/4
-OL,4,    0 xxx A]G1 xxx B]D2 xxx C]D3 xxx  \ 
+OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@x
+OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@x
+OL,4, @  0 xxx A]G1 xxx B]D2 xxx C]D3 xxx  \ 
 OL,6, D]G4 xxx E]G5 xxx F]D6 xxx G]D7 xxx  \ 
 OL,8,xyNotes:                                
 OL,10,xyCLUT 3 colours may all be changed.    
