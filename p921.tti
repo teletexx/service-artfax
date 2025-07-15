@@ -6,7 +6,7 @@ PN,92100
 SC,0000
 PS,8000
 OL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,MD]CPacket 28 - CLUT 0 TBA              
+OL,1,MD]CPacket 28 - CLUT 0                  
 OL,2,                                        
 OL,3,                                     1/4
 OL,4,    0 000 A]G1 f00 B]D2 0f0 C]D4 ff0  \ 
@@ -30,4 +30,17 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,A Next   B....       C....      FHelp   
+FL,922,8ff,8ff,700,8ff,8ff  
+CT,8,T
+PN,92101
+SC,0001
+PS,8000
+RE,0
+OL,1,MD]CPacket 28 - CLUT 1                  
+OL,3,xyzzy                                2/4
+OL,4,xyzz0 tr  A]G1        2        3        
+OL,8,xyNotes:                                
+OL,10,xyClut 1 is a darkened set of the       
+OL,11,  standard colours. These colours are   
+OL,12,  fixed and can not be changed.         
 FL,922,8ff,8ff,700,8ff,8ff  
