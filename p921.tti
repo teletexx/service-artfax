@@ -79,4 +79,4 @@ OL,8, CNotes:
 OL,10, CCLUT 3 colours may all be changed.    
 OL,11, CHowever, they can only be used as     
 OL,12, Cbackground colours against CLUT 2     
-OL,13,D]CPacket 28 - CLUT 3                                                         
+OL,13MD]CPacket 28 - CLUT 1                                                         
