@@ -36,5 +36,8 @@ PN,99001
 SC,0001
 PS,8000
 RE,0
+OL,2,Line 2 should be here                   
 OL,4,This is SUBPAGE 2                       
 FL,991,8ff,8ff,700,8ff,8ff  
+RM,2,UNEXPECTED OL BEFORE HEADER. MARKED FOR DELETIONOL,6,Line 6 is here                          
+RM,2,UNEXPECTED OL BEFORE HEADER. MARKED FOR DELETIONOL,15,Let's hope                              
