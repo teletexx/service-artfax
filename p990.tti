@@ -36,9 +36,8 @@ PN,99001
 SC,0001
 PS,8000
 RE,0
-OL,2,Zero                                    
+OL,2,Foist                                   
 OL,4,This is SUBPAGE 2                       
 FL,991,8ff,8ff,700,8ff,8ff  
-RM,2,UNEXPECTED OL BEFORE HEADER. MARKED FOR DELETIONOL,6,Eins                                    
-RM,2,UNEXPECTED OL BEFORE HEADER. MARKED FOR DELETIONOL,9,Zwei                                    
-RM,2,UNEXPECTED OL BEFORE HEADER. MARKED FOR DELETIONOL,12,Drei                                    
+RM,2,UNEXPECTED OL BEFORE HEADER. MARKED FOR DELETIONOL,7,Zecund                                  
+RM,2,UNEXPECTED OL BEFORE HEADER. MARKED FOR DELETIONOL,10,Fird                                    
