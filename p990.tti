@@ -7,12 +7,12 @@ SC,0000
 PS,8000
 OL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
-OL,2,First                                   
-OL,3,Middle                                  
+OL,2,                                        
+OL,3,                                        
 OL,4,                                        
 OL,5,                                        
 OL,6,                                        
-OL,7,Last                                    
+OL,7,                                        
 OL,8,                                        
 OL,9,                                        
 OL,10,                                        
@@ -36,9 +36,5 @@ PN,99001
 SC,0001
 PS,8000
 RE,0
-OL,2,Zero                                    
 OL,4,This is SUBPAGE 2                       
 FL,991,8ff,8ff,700,8ff,8ff  
-RM,2,UNEXPECTED OL BEFORE HEADER. MARKED FOR DELETIONOL,8,Ichi                                    
-RM,2,UNEXPECTED OL BEFORE HEADER. MARKED FOR DELETIONOL,13,Ni                                      
-RM,2,UNEXPECTED OL BEFORE HEADER. MARKED FOR DELETIONOL,17,San                                     
