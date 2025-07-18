@@ -38,3 +38,6 @@ PS,8000
 RE,0
 OL,4,This is SUBPAGE 2                       
 FL,991,8ff,8ff,700,8ff,8ff  
+RM,2,UNEXPECTED OL BEFORE HEADER. MARKED FOR DELETIONOL,9,Ichi                                    
+RM,2,UNEXPECTED OL BEFORE HEADER. MARKED FOR DELETIONOL,14,Ni                                      
+RM,2,UNEXPECTED OL BEFORE HEADER. MARKED FOR DELETIONOL,19,San                                     
