@@ -37,7 +37,7 @@ SC,0001
 PS,8000
 RE,0
 OL,4,This is SUBPAGE 2                       
+OL,11,One                                     
+OL,12,Two                                     
+OL,13,Three                                   
 FL,991,8ff,8ff,700,8ff,8ff  
-RM,2,UNEXPECTED OL BEFORE HEADER. MARKED FOR DELETIONOL,8,One                                     
-RM,2,UNEXPECTED OL BEFORE HEADER. MARKED FOR DELETIONOL,9,Two                                     
-RM,2,UNEXPECTED OL BEFORE HEADER. MARKED FOR DELETIONOL,10,Three                                   
