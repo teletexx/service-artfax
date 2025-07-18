@@ -6,32 +6,10 @@ PN,99000
 SC,0000
 PS,8000
 OL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
-OL,3,                     ?                  
-OL,3,                    k                   
-OL,3,                   r                    
-OL,3,                  o                     
-OL,3,                 w                      
-OL,3,                                        
-OL,3,               s                        
-OL,3,              i                         
-OL,3,             h                          
-OL,3,            t                           
-OL,3,                                        
-OL,3,          s                             
-OL,3,         e                              
-OL,3,        o                               
-OL,3,       D                                
-OL,3,                                        
-OL,3,     .                                  
-OL,3,    o                                   
-OL,3,   l                                    
-OL,3,  l                                     
-OL,3, e                                      
-OL,3,H                                       
 OL,1,                                        
 OL,2,                                        
 OL,3,                                        
-OL,4,                                        
+OL,4,This is subpage 1                       
 OL,5,                                        
 OL,6,                                        
 OL,7,                                        
