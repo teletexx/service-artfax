@@ -9,8 +9,8 @@ OL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,MD]CSpecifying Colours                  
 OL,2,                                        
 OL,3,                                        
-OL,4,  TBA. Twelve bit colours use three hex 
-OL,5,       digits.                          
+OL,4,  Teletext colours use twelve bit RGB   
+OL,5,  values.                               
 OL,6,                                        
 OL,7,                                        
 OL,8,                                        
