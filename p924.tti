@@ -2,7 +2,7 @@ DE,Editing X28 properties with Muttlee
 DS,Muttlee
 SP,/var/www/private/onair/artfax/p913.tti
 CT,8,T
-PN,91300
+PN,92400
 SC,0000
 PS,8000
 RE,0
@@ -31,4 +31,4 @@ OL,21,BxGsaves and exits
 OL,22,BqGquits without saving.                
 OL,23,                                        
 OL,24,A Next   B....       C....      FHelp   
-FL,914,8ff,8ff,700,8ff,8ff  
+FL,921,922,923,920,8ff,8ff  
