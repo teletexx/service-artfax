@@ -6,7 +6,7 @@ PN,92400
 SC,0000
 PS,8000
 RE,0
-OL,0,        ARTFAX mpp DAY dd MTH  Chh:nn/ss
+OL,0,xx      ARTFAX mpp DAY dd MTH  Chh:nn/ss
 OL,1,C]MAPacket 28 - Muttlee commands        
 OL,2,                                        
 OL,3,                                        
@@ -31,4 +31,6 @@ OL,21,BxGsaves and exits
 OL,22,BqGquits without saving.                
 OL,23,                                        
 OL,24,A CLUTs  BColours    CControl   FIndex  
+OL,28,@@@@@O@p_@|wKpZA`UB_wLs_w}ww]_}_w]\v
+OL,28,@@@@@O@p_@|wKpZA`UB_wLs_w}ww]_}_wM@@
 FL,921,922,923,920,8ff,8ff  
