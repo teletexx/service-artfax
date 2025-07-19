@@ -15,11 +15,11 @@ OL,6,
 OL,7,  Set a default row and screen colour   
 OL,8,  from any CLUT.                        
 OL,9,                                        
-OL,10,  Set a CLUT                            
-OL,11,                                        
-OL,12,                                        
+OL,10,  Set a CLUT remapping using one of     
+OL,11,  seven schemes. You can swap all the   
+OL,12,  foreground and background colours.    
 OL,13,                                        
-OL,14,                                        
+OL,14,  Flag if  sizes.                       
 OL,15,                                        
 OL,16,                                        
 OL,17,                                        
