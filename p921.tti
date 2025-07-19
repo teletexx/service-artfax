@@ -48,7 +48,7 @@ OL,12,  fixed and can not be changed.
 OL,13,                                        
 OL,14,  Colour 0 is the transparent colour    
 OL,15,  and is used to show the video signal  
-OL,24,ANext   BControl  CMuttlee  FIndex      
+OL,24,A Next   BControl    CMuttlee   FIndex  
 FL,922,923,924,920,8ff,8ff
 CT,8,T
 PN,92102
@@ -64,7 +64,8 @@ OL,8,  Notes:
 OL,10,  CLUT 2 colours are all changeable     
 OL,11,  All of the colours can be changed and 
 OL,12,  used as foreground or background.     
-FL,922,8ff,8ff,700,8ff,8ff  
+OL,24,A Next   BControl    CMuttlee   FIndex  
+FL,922,923,924,920,8ff,8ff  
 CT,8,T
 PN,92103
 SC,0003
@@ -79,3 +80,5 @@ OL,8, CNotes:
 OL,10, CCLUT 3 colours may all be changed.    
 OL,11, CHowever, they can only be used as     
 OL,12, Cbackground colours against CLUT 2     
+OL,24,A Next   BControl    CMuttlee   FIndex  
+FL,922,923,924,920,8ff,8ff
