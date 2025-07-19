@@ -30,7 +30,7 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,A Next   B....       C....      FHelp   
-FL,991,8ff,8ff,700,8ff,8ff  
+FL,991,921,922,923,8ff,8ff  
 CT,8,T
 PN,99001
 SC,0001
@@ -43,4 +43,4 @@ OL,13,Three
 OL,18,              Four                      
 OL,19,              Five                      
 OL,20,              Six                       
-FL,991,8ff,8ff,700,8ff,8ff  
+FL,991,921,922,923,8ff,8ff  
