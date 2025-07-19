@@ -6,7 +6,7 @@ PN,92400
 SC,0000
 PS,8000
 RE,0
-OL,0,        ARTFAX                          
+OL,0,        ARTFAX mpp DAY dd MTH  Chh:nn/ss
 OL,1,C]MAPacket 28 - Muttlee commands        
 OL,2,                                        
 OL,3,                                        

@@ -37,6 +37,7 @@ SC,0001
 PS,8000
 RE,0
 OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@L
+OL,0,        ART                             
 OL,1,MD]CPacket 28 - CLUT 1                  90
 OL,3,                                     2/4
 OL,4,    0 tr  A]G1 700 B]G2 070 C]G3 770  \ 
@@ -55,6 +56,7 @@ PN,92102
 SC,0002
 PS,8000
 RE,0
+OL,0,        ART                             
 OL,1,MD]CPacket 28 - CLUT 2                  
 OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@P
 OL,3,                                     3/4
@@ -72,6 +74,7 @@ SC,0003
 PS,8000
 RE,0
 OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@x
+OL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
 OL,1,MD]CPacket 28 -CLUT 3                   0
 OL,3,                                     4/4
 OL,4,@]]C0 333 A]C1 f77 B]F2 7f7 C]E3 ff7  \ 
