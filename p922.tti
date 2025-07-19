@@ -10,9 +10,9 @@ OL,1,MD]CSpecifying Colours
 OL,2,                                        
 OL,3,                                        
 OL,4,  Teletext colours use twelve bit RGB   
-OL,5,  values.                               
-OL,6,                                        
-OL,7,                                        
+OL,5,  values. We use a three digit hex code 
+OL,6,  for example black is 000 and white is 
+OL,7,  fff.                                  
 OL,8,                                        
 OL,9,                                        
 OL,10,                                        
