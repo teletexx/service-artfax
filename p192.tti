@@ -1,9 +1,10 @@
-DE,Pride flag 2.5 colours
+DE,Pride flag 2.5 X/28 colours
 PN,19900
 SC,0000
 PS,8000
 CT,20,T
 OL,28,@@@|g@@`C@`r{@PAxcpLs_w}ww]_}_wM@p
+OL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
 OL,1,MTraditional Pride Flag                 
 OL,4,A]                                      
 OL,5,A]                                      
