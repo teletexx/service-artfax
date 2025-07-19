@@ -9,13 +9,13 @@ OL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,DM]CPacket 28 - Control bits            
 OL,2,                                        
 OL,3,                                        
-OL,4,                                        
-OL,5,                                        
+OL,4,  Packet 28 has these controls in       
+OL,5,  addition to the palette colours.      
 OL,6,                                        
-OL,7,                                        
-OL,8,                                        
+OL,7,  Set a default row and screen colour   
+OL,8,  from any CLUT.                        
 OL,9,                                        
-OL,10,                                        
+OL,10,  Set a CLUT                            
 OL,11,                                        
 OL,12,                                        
 OL,13,                                        
