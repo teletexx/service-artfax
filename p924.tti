@@ -6,7 +6,7 @@ PN,92400
 SC,0000
 PS,8000
 RE,0
-OL,0,                                        
+OL,0,        ARTFAX                          
 OL,1,C]MAPacket 28 - Muttlee commands        
 OL,2,                                        
 OL,3,                                        
@@ -30,5 +30,5 @@ OL,20,
 OL,21,BxGsaves and exits                      
 OL,22,BqGquits without saving.                
 OL,23,                                        
-OL,24,A CLUTs  BColours    CMUT.      FIndex  
+OL,24,A CLUTs  BColours    CControl   FIndex  
 FL,921,922,923,920,8ff,8ff  
