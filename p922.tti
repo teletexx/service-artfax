@@ -14,12 +14,12 @@ OL,5,  values. We use a three digit hex code
 OL,6,  for example black is 000 and white is 
 OL,7,  fff.                                  
 OL,8,                                        
-OL,9,                                        
-OL,10,                                        
-OL,11,                                        
-OL,12,                                        
+OL,9,  If you have the 24 bit hex value of a 
+OL,10,  colour from the web or a paint        
+OL,11,  program you can work out the teletext 
+OL,12,  value very easily.                    
 OL,13,                                        
-OL,14,                                        
+OL,14,  For example, Celadon is _ace1a        
 OL,15,                                        
 OL,16,                                        
 OL,17,                                        
