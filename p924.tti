@@ -22,7 +22,7 @@ OL,12,BPageDnGgoes to the previous edit screen
 OL,13,                                        
 OL,14, Click on an edit field to edit it.     
 OL,15, If you are on an editable field then a 
-OL,16, hxnt will pop up.                                                          
+OL,16, hint will pop up.                                                          
 OL,17,                                        
 OL,18,BTABGjumps to the next editable field   
 OL,19, but only if you are already on a field.
