@@ -38,3 +38,11 @@ PS,8000
 RE,0
 OL,4,      and this is subpage two           
 FL,916,8ff,8ff,700,8ff,8ff  
+CT,8,T
+PN,91502
+SC,0002
+PS,8000
+RE,0
+OL,10,    This is subpage t                   
+OL,12,               This is subpage three    
+FL,916,8ff,8ff,700,8ff,8ff  
