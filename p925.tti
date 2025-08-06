@@ -36,6 +36,16 @@ PN,92501
 SC,0001
 PS,8000
 RE,0
+OL,2,   Name   Foreground   Background       
+OL,3,                                        
+OL,4, 0 Black                                
+OL,6, 1ARed                                  
+OL,8, 2BG                                    
+OL,10, 3CY                                    
+OL,12, 4DB                                    
+OL,14, 5EM                                    
+OL,16, 6FC                                    
+OL,18, 7GW                                    
 OL,20,MLevel 2.5 allows for all the colours   
 OL,22,Mto be changed                          
 FL,926,8ff,8ff,700,8ff,8ff  
