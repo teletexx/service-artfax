@@ -25,9 +25,25 @@ OL,16,
 OL,17,                                        
 OL,18,                                        
 OL,19,                                        
-OL,20,M Traditional                           
+OL,20,M Traditional teletext is limited to    
 OL,21,                                        
-OL,22,                                        
+OL,22,M eight colours                         
 OL,23,                                        
 OL,24,A Next   B....       C....      FHelp   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+PN,92501
+SC,0001
+PS,8000
+RE,0
+OL,20,MLevel 2.5 allows for all the colours   
+OL,22,Mto be changed                          
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+PN,92502
+SC,0002
+PS,8000
+RE,0
+OL,20,MLevel 2.5 has a total of four colour   
+OL,22,Mlook up tables                         
 FL,926,8ff,8ff,700,8ff,8ff  
