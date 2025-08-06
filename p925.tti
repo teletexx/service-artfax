@@ -38,17 +38,20 @@ PS,8000
 RE,0
 OL,2,   Name   Foreground   Background       
 OL,3,                                        
-OL,4, 0 Black                                
+OL,4,D0 Navy                                 
 OL,6, 1ASalmon                               
 OL,8, 2BSpring green                         
 OL,10, 3CGold                                 
-OL,12, 4DB                                    
-OL,14, 5EM                                    
-OL,16, 6FC                                    
-OL,18, 7GW                                    
+OL,12, 4DTurquoise                            
+OL,14, 5ETurqoise                             
+OL,16, 6FBBBBBBB                              
+OL,18, 7GBBBBBB                               
 OL,20,MLevel 2.5 allows for all the colours   
 OL,22,Mto be changed                          
 OL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@@
+OL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+OL,28,@@@@@O@xkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+OL,28,@@@@@O@xkF|ww@y]A`UB_wLs_w}ww]_}_wM@p
 FL,926,8ff,8ff,700,8ff,8ff  
 CT,8,T
 PN,92502
