@@ -36,7 +36,7 @@ PN,92501
 SC,0001
 PS,8000
 RE,0
-OL,0,        ARTFAX mpp DAY                  
+OL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
 OL,2,   Name   Foreground   Background       
 OL,3,                        (hex)           
 OL,4,D0 Navy                 G008            
@@ -62,7 +62,9 @@ PN,92502
 SC,0002
 PS,8000
 RE,0
-OL,0,        ARTFAX mpp DAY                  
+OL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+OL,2, Level 2.5 Colour Lookup Tables         
+OL,4, 0:                                     
 OL,20,MLevel 2.5 has a total of four colour   
 OL,22,Mlook up tables (CLUT)                  
 FL,926,8ff,8ff,700,8ff,8ff  
@@ -71,7 +73,7 @@ PN,92503
 SC,0003
 PS,8000
 RE,0
-OL,0,        ARTFAX mpp DAY                  
+OL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
 OL,20,MForeground and background can use      
 OL,22,Mdifferent CLUTs totalling 16 colours   
 FL,926,8ff,8ff,700,8ff,8ff  
@@ -80,7 +82,7 @@ PN,92504
 SC,0004
 PS,8000
 RE,0
-OL,0,        ARTFAX mpp DAY                  
+OL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
 OL,20,MTo access the colour lookup tables     
 OL,22,M(CLUT) use the <esc><shift>X command   
 FL,926,8ff,8ff,700,8ff,8ff  
@@ -89,7 +91,7 @@ PN,92505
 SC,0005
 PS,8000
 RE,0
-OL,0,        ARTFAX mpp DAY                  
+OL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
 OL,20,MColours are defined as three digit hex 
 OL,22,Mnumbers. eg. Arcoline is fda           
 FL,926,8ff,8ff,700,8ff,8ff  
