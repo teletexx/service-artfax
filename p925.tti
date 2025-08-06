@@ -64,14 +64,16 @@ PS,8000
 RE,0
 OL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
 OL,2, Level 2.5 Colour Lookup Tables         
-OL,4, 0:Q    RSTUVW     
-OL,7, 1:                                     
+OL,4, 0:Q  ^ RSTUVW     
+OL,6,                                    k   
+OL,7, 1:   QQ]  R]  S]  T]  U]  V]  W]   P   
 OL,9,                                        
 OL,10, 2:                                     
 OL,11,                                        
 OL,13, 3:                                     
 OL,20,MLevel 2.5 has a total of four colour   
 OL,22,Mlook up tables (CLUT)                  
+OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@H
 FL,926,8ff,8ff,700,8ff,8ff  
 CT,8,T
 PN,92503
