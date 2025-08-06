@@ -37,11 +37,11 @@ SC,0001
 PS,8000
 RE,0
 OL,2,   Name   Foreground   Background       
-OL,3,                                        
-OL,4,D0 Navy                                 
-OL,6, 1ASalmon             ] E08             
-OL,8, 2BSpring green       ]                 
-OL,10, 3CGold               ]                 
+OL,3,                        (hex)           
+OL,4,D0 Navy                 G008            
+OL,6, 1ASalmon             ] @fa6            
+OL,8, 2BSpring green       ] @fa6            
+OL,10, 3CGold               ] @               
 OL,12, 4DTurquoise          ]                 
 OL,14, 5ESilver             ]                 
 OL,16, 6FHot pink           ]                 
