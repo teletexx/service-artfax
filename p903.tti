@@ -12,13 +12,13 @@ OL,3, Using remap mode 7 with CLUT 2 and 3.
 OL,4,                                        
 OL,5,                                        
 OL,6,                                        
-OL,7,                                        
-OL,8,Q]Z~}                                  
-OL,9,Q]Z                                    
-OL,10,Q]Z                                  
-OL,11,Q]Z                                    
-OL,12,Q]Z?                                  
-OL,13,                                        
+OL,7,Q]                                      
+OL,8,Q]Z~}  } ~}   }   h }     
+OL,9,Q]Z                         
+OL,10,Q]Zo    ?           ~?     
+OL,11,Q]Z      }0                  
+OL,12,Q]Z?    "} o? o? ?          
+OL,13,Q]                                      
 OL,14,                                        
 OL,15,                                        
 OL,16,                                        
@@ -32,4 +32,5 @@ OL,23,
 OL,24,A Next   B....       C....      FHelp   
 OL,28,@@@@@Cuk@|wKpZA`UB_wLsUq}ww]_}_wM@@
 OL,28,@@@@@Cuk@|wKpZA`UB_wLsUq}ww]_}_wM@x
+OL,28,@@@@@Cuw@|wKpZA`UB_wLCIp}ww]_}_wM@x
 FL,904,8ff,8ff,700,8ff,8ff  
