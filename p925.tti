@@ -36,16 +36,17 @@ PN,92501
 SC,0001
 PS,8000
 RE,0
+OL,0,        ART                             
 OL,2,   Name   Foreground   Background       
 OL,3,                        (hex)           
 OL,4,D0 Navy                 G008            
 OL,6, 1ASalmon             ] @fa6            
-OL,8, 2BSpring green       ] @fa6            
-OL,10, 3CGold               ] @               
-OL,12, 4DTurquoise          ]                 
-OL,14, 5ESilver             ]                 
-OL,16, 6FHot pink           ]                 
-OL,18, 7GLavender           ]                 
+OL,8, 2BSpring green       ] @07f            
+OL,10, 3CGold               ] @fd0            
+OL,12, 4DTurquoise          ] @4ed            
+OL,14, 5ESilver             ] @ccc            
+OL,16, 6FHot pink           ] @f6b            
+OL,18, 7GLavender           ] @eef            
 OL,20,MLevel 2.5 allows for all the colours   
 OL,22,Mto be changed                          
 OL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@@
@@ -61,6 +62,7 @@ PN,92502
 SC,0002
 PS,8000
 RE,0
+OL,0,        ART                             
 OL,20,MLevel 2.5 has a total of four colour   
 OL,22,Mlook up tables (CLUT)                  
 FL,926,8ff,8ff,700,8ff,8ff  
@@ -69,6 +71,7 @@ PN,92503
 SC,0003
 PS,8000
 RE,0
+OL,0,        ART                             
 OL,20,MForeground and background can use      
 OL,22,Mdifferent CLUTs totalling 16 colours   
 FL,926,8ff,8ff,700,8ff,8ff  
@@ -77,6 +80,7 @@ PN,92504
 SC,0004
 PS,8000
 RE,0
+OL,0,        ART                             
 OL,20,MTo access the colour lookup tables     
 OL,22,M(CLUT) use the <esc><shift>X command   
 FL,926,8ff,8ff,700,8ff,8ff  
@@ -85,6 +89,7 @@ PN,92505
 SC,0005
 PS,8000
 RE,0
+OL,0,        ART                             
 OL,20,MColours are defined as three digit hex 
 OL,22,Mnumbers. eg. Arcoline is fda           
 FL,926,8ff,8ff,700,8ff,8ff  
