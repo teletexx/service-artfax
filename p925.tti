@@ -73,9 +73,11 @@ OL,11,
 OL,12, CLUT 0 has the standard colours and    
 OL,13, CLUT 1 has darker versions of these    
 OL,14, colours.                               
-OL,15,Q                                       
-OL,16,Q                                       
-OL,17,Q                                       
+OL,15,Q~]Z     t                     
+OL,16,Q]Z                               
+OL,17,Q]Z                             
+OL,18,Q]Z                               
+OL,19,Qo]Z  '                     
 OL,20,MLevel 2.5 has a total of four colour   
 OL,22,Mlook up tables (CLUT)                  
 OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@H
