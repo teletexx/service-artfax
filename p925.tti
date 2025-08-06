@@ -53,7 +53,7 @@ SC,0003
 PS,8000
 RE,0
 OL,20,MForeground and background can use      
-OL,22,Mdifferent sets to total 16 colours     
+OL,22,Mdifferent CLUTs totalling 16 colours   
 FL,926,8ff,8ff,700,8ff,8ff  
 CT,8,T
 PN,92504
@@ -61,5 +61,13 @@ SC,0004
 PS,8000
 RE,0
 OL,20,MTo access the colour lookup tables     
-OL,22,M(CLUT) use the <esc><shift>x command   
+OL,22,M(CLUT) use the <esc><shift>X command   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+PN,92505
+SC,0005
+PS,8000
+RE,0
+OL,20,MColours are defined as three digit hex 
+OL,22,Mnumbers. eg. Arcoline is fda           
 FL,926,8ff,8ff,700,8ff,8ff  
