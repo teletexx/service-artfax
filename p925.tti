@@ -45,5 +45,21 @@ SC,0002
 PS,8000
 RE,0
 OL,20,MLevel 2.5 has a total of four colour   
-OL,22,Mlook up tables                         
+OL,22,Mlook up tables (CLUT)                  
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+PN,92503
+SC,0003
+PS,8000
+RE,0
+OL,20,MForeground and background can use      
+OL,22,Mdifferent sets to total 16 colours     
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+PN,92504
+SC,0004
+PS,8000
+RE,0
+OL,20,MTo access the colour lookup tables     
+OL,22,M(CLUT) use the <esc><shift>x command   
 FL,926,8ff,8ff,700,8ff,8ff  
