@@ -39,13 +39,13 @@ RE,0
 OL,2,   Name   Foreground   Background       
 OL,3,                                        
 OL,4,D0 Navy                                 
-OL,6, 1ASalmon                               
-OL,8, 2BSpring green                         
-OL,10, 3CGold                                 
-OL,12, 4DTurquoise                            
-OL,14, 5ESilver                               
-OL,16, 6FHot pink                             
-OL,18, 7GLavender                             
+OL,6, 1ASalmon             ]                 
+OL,8, 2BSpring green       ]                 
+OL,10, 3CGold               ]                 
+OL,12, 4DTurquoise          ]                 
+OL,14, 5ESilver             ]                 
+OL,16, 6FHot pink           ]                 
+OL,18, 7GLavender           ]                 
 OL,20,MLevel 2.5 allows for all the colours   
 OL,22,Mto be changed                          
 OL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@@
