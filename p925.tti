@@ -65,12 +65,17 @@ RE,0
 OL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
 OL,2, Level 2.5 Colour Lookup Tables         
 OL,4, 0:Q  ^ RSTUVW     
-OL,6,                                    k   
-OL,7, 1:   QQ]  R]  S]  T]  U]  V]  W]   P   
+OL,6,                                        
+OL,7, 1:   QQ]  R]  S]  T]  U]  V]  W]  \P   
 OL,9,                                        
-OL,10, 2:                                     
+OL,10, CLUTs 0 and 1 have fixed colours.      
 OL,11,                                        
-OL,13, 3:                                     
+OL,12, CLUT 0 has the standard colours and    
+OL,13, CLUT 1 has darker versions of these    
+OL,14, colours.                               
+OL,15,Q                                       
+OL,16,Q                                       
+OL,17,Q                                       
 OL,20,MLevel 2.5 has a total of four colour   
 OL,22,Mlook up tables (CLUT)                  
 OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@H
