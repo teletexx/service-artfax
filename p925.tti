@@ -73,9 +73,9 @@ OL,11,
 OL,12, CLUT 0 has the standard colours and    
 OL,13, CLUT 1 has darker versions of these    
 OL,14, colours.                               
-OL,15,Q~]Z     t                     
-OL,16,Q]Z                               
-OL,17,Q]Z                             
+OL,15,Q~]Z     t  CCLUT remap mode 1 
+OL,16,Q]Z          Q]RYppppppppppppppppp
+OL,17,Q]Z        R]RY#################
 OL,18,Q]Z                               
 OL,19,Qo]Z  '                     
 OL,20,MLevel 2.5 has a total of four colour   
