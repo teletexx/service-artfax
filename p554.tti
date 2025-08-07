@@ -6,7 +6,7 @@ PN,55400
 SC,0000
 PS,8000
 RE,0
-OL,0,        Halifax mpp DAY        Chh.nn.ss
+OL,0,D       Halifax mpp DAY        Chh.nn.ss
 OL,1,W                                       
 OL,2,W       //////          
 OL,3,W       ]PPATIO         \         
@@ -17,7 +17,7 @@ OL,7,W                           
 OL,8,M      WG 7   8   9   /    G          
 OL,9,W                                     
 OL,10,W                                     
-OL,11,M]Q    WG 4   5   6   ~,   W           
+OL,11,M Q    WG 4   5   6   ~   W            
 OL,12,                                      
 OL,13,           Z                          
 OL,14,M      WG 1   2   3   X    W          
