@@ -1,4 +1,4 @@
-DE,Topic: Created by user
+DE,Calculator
 DS,Muttlee
 SP,/var/www/private/onair/artfax/p554.tti
 CT,8,T
@@ -6,9 +6,9 @@ PN,55400
 SC,0000
 PS,8000
 RE,0
-OL,0,                                        
-OL,1,                                        
-OL,2,                                        
+OL,0,        Halifax mpp DAY        Chh.nn.ss
+OL,1,W]                                      
+OL,2,W]                                      
 OL,3,                                        
 OL,4,        Placeholder                     
 OL,5,                                        
