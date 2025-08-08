@@ -19,3 +19,37 @@ OL,21,
 OL,22,Mlook up tables (CLUT)                  
 OL,23,                                        
 FL,8ff,8ff,8ff,8ff,8ff,8ff
+CT,8,T
+PN,10003
+SC,0003
+PS,8000
+RE,0
+OL,1,D]GSample of using 16 colours           
+OL,2,B                                       
+OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@`
+OL,3,  Foreground                            
+OL,4,@]                                      
+FL,8ff,8ff,8ff,8ff,8ff,8ff
+CT,8,T
+PN,10004
+SC,0004
+PS,8000
+RE,0
+OL,7,                 foreground colours     
+OL,8,                                        
+OL,9,   3) Set CLUT 3 to background.         
+OL,10,                                        
+OL,11,   4) Press Page Up to get to page 2    
+OL,12,      of the edit page and select       
+OL,13,      CLUT remap mode 7.                
+OL,14,                                        
+OL,15,   5) Press x to save your settings and 
+OL,16,      exit the edit page.               
+OL,17,                                        
+OL,18,                                        
+OL,19,                                        
+OL,20,MTo access the colour lookup tables     
+OL,21,                                        
+OL,22,M(CLUT) use the <esc><shift>X command   
+OL,23,                                        
+FL,8ff,8ff,8ff,8ff,8ff,8ff
