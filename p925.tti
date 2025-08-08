@@ -32,11 +32,13 @@ OL,4,0P     @]
 OL,5,1Q     Q]         \           
 OL,6,2R      ]         \           
 OL,7,3S      ]         \           
-OL,8,4T                                      
-OL,9,5                                       
-OL,10,6                                       
-OL,11,7                                       
+OL,8,4T      ]         \           
+OL,9,5U      ]         \           
+OL,10,6V      ]         \           
+OL,11,7W      ]         \           
 OL,28,@@@@@sy_@|wKpZA`UB_wLs_w}ww]_}_wM@`
+OL,14, S]AYou canBcombine theseCcolours       
+OL,15, B]Fusing theFnormalDcontrol codes      
 FL,8ff,8ff,8ff,8ff,8ff,8ff
 CT,8,T
 PN,10004
