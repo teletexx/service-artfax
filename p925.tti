@@ -27,8 +27,16 @@ RE,0
 OL,1,D]GSample of using 16 colours           
 OL,2,B                                       
 OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@`
-OL,3,  Foreground                            
-OL,4,@]                                      
+OL,3,  Foreground      Background            
+OL,4,0P     @]                     
+OL,5,1Q     Q]         \           
+OL,6,2R      ]         \           
+OL,7,3S      ]         \           
+OL,8,4T                                      
+OL,9,5                                       
+OL,10,6                                       
+OL,11,7                                       
+OL,28,@@@@@sy_@|wKpZA`UB_wLs_w}ww]_}_wM@`
 FL,8ff,8ff,8ff,8ff,8ff,8ff
 CT,8,T
 PN,10004
