@@ -7,8 +7,8 @@ SC,0000
 PS,8000
 OL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
-OL,2,   Name    Foreground    Background     
-OL,3,                          (hex)         
+OL,2,D]GName    Foreground    Background     
+OL,3,D]G                       (hex)         
 OL,4, 0 Black                   000          
 OL,5,                                        
 OL,6, 1 Red    ARed Lion      ]Gf00          
@@ -37,7 +37,7 @@ SC,0001
 PS,8000
 RE,0
 OL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
-OL,2,   Name   Foreground   Background       
+OL,2,@]GName   Foreground   Background       
 OL,3,                        (hex)           
 OL,4,D0 Navy                 G008            
 OL,6, 1ASalmon             ] @fa6            
@@ -108,4 +108,1669 @@ RE,0
 OL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
 OL,20,MColours are defined as three digit hex 
 OL,22,Mnumbers. eg. Arcoline is fda           
+FL,926,8ff,8ff,700,8ff,8ff  
+DE,Enter your description here
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p925.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92500
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,D  Name    Foreground    Background     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                          (hex)         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0 Black                   000          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1 Red    ARed Lion      ]Gf00          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2 Green  BGreen Park    ]D0f0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3 Yellow CYellow box    ]Dff0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4 Blue   DBlue Peter    ]G00f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5 MagentaEMagenta Devine]Gf0f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6 Cyan   FCyan Nara     ]D0ff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7 White   White City    ]Dfff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,M Traditional teletext is limited to    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M eight colours                         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92501
+SC,0001
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,   Name   Foreground   Background       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                        (hex)           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,D0 Navy                 G008            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1ASalmon             ] @fa6            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2BSpring green       ] @07f            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3CGold               ] @fd0            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4DTurquoise          ] @4ed            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5ESilver             ] @ccc            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6FHot pink           ] @f6b            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7GLavender           ] @eef            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 allows for all the colours   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mto be changed                          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@@
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@y]A`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMslUB_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[K_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[k{Ls_w}ww]_}_wM@t
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92502
+SC,0002
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2, Level 2.5 Colour Lookup Tables         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0:Q  ^ RSTUVW     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7, 1:   QQ]  R]  S]  T]  U]  V]  W]  \P   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, CLUTs 0 and 1 have fixed colours.      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, CLUT 0 has the standard colours and    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13, CLUT 1 has darker versions of these    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, colours.                               
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,Q~]Z     t  CCLUT remap mode 1 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,Q]Z          Q]RYppppppppppppppppp
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,Q]Z        R]RY#################
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,Q]Z          S]SY/////////////////
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,Qo]Z  'S]TY|||||||||||||||||
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 has a total of four colour   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mlook up tables (CLUT)                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@H
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92503
+SC,0003
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MForeground and background can use      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mdifferent CLUTs totalling 16 colours   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92504
+SC,0004
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MTo access the colour lookup tables     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M(CLUT) use the <esc><shift>X command   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92505
+SC,0005
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MColours are defined as three digit hex 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mnumbers. eg. Arcoline is fda           
+FL,926,8ff,8ff,700,8ff,8ff  
+DE,Enter your description here
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p925.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92500
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,D]GName    Foreground    Background     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                          (hex)         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0 Black                   000          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1 Red    ARed Lion      ]Gf00          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2 Green  BGreen Park    ]D0f0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3 Yellow CYellow box    ]Dff0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4 Blue   DBlue Peter    ]G00f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5 MagentaEMagenta Devine]Gf0f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6 Cyan   FCyan Nara     ]D0ff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7 White   White City    ]Dfff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,M Traditional teletext is limited to    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M eight colours                         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92501
+SC,0001
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,   Name   Foreground   Background       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                        (hex)           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,D0 Navy                 G008            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1ASalmon             ] @fa6            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2BSpring green       ] @07f            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3CGold               ] @fd0            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4DTurquoise          ] @4ed            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5ESilver             ] @ccc            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6FHot pink           ] @f6b            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7GLavender           ] @eef            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 allows for all the colours   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mto be changed                          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@@
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@y]A`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMslUB_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[K_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[k{Ls_w}ww]_}_wM@t
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92502
+SC,0002
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2, Level 2.5 Colour Lookup Tables         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0:Q  ^ RSTUVW     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7, 1:   QQ]  R]  S]  T]  U]  V]  W]  \P   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, CLUTs 0 and 1 have fixed colours.      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, CLUT 0 has the standard colours and    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13, CLUT 1 has darker versions of these    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, colours.                               
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,Q~]Z     t  CCLUT remap mode 1 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,Q]Z          Q]RYppppppppppppppppp
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,Q]Z        R]RY#################
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,Q]Z          S]SY/////////////////
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,Qo]Z  'S]TY|||||||||||||||||
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 has a total of four colour   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mlook up tables (CLUT)                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@H
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92503
+SC,0003
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MForeground and background can use      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mdifferent CLUTs totalling 16 colours   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92504
+SC,0004
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MTo access the colour lookup tables     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M(CLUT) use the <esc><shift>X command   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92505
+SC,0005
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MColours are defined as three digit hex 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mnumbers. eg. Arcoline is fda           
+FL,926,8ff,8ff,700,8ff,8ff  
+DE,Enter your description here
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p925.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92500
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,D  Name    Foreground    Background     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                          (hex)         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0 Black                   000          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1 Red    ARed Lion      ]Gf00          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2 Green  BGreen Park    ]D0f0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3 Yellow CYellow box    ]Dff0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4 Blue   DBlue Peter    ]G00f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5 MagentaEMagenta Devine]Gf0f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6 Cyan   FCyan Nara     ]D0ff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7 White   White City    ]Dfff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,M Traditional teletext is limited to    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M eight colours                         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92501
+SC,0001
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,   Name   Foreground   Background       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                        (hex)           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,D0 Navy                 G008            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1ASalmon             ] @fa6            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2BSpring green       ] @07f            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3CGold               ] @fd0            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4DTurquoise          ] @4ed            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5ESilver             ] @ccc            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6FHot pink           ] @f6b            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7GLavender           ] @eef            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 allows for all the colours   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mto be changed                          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@@
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@y]A`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMslUB_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[K_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[k{Ls_w}ww]_}_wM@t
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92502
+SC,0002
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2, Level 2.5 Colour Lookup Tables         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0:Q  ^ RSTUVW     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7, 1:   QQ]  R]  S]  T]  U]  V]  W]  \P   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, CLUTs 0 and 1 have fixed colours.      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, CLUT 0 has the standard colours and    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13, CLUT 1 has darker versions of these    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, colours.                               
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,Q~]Z     t  CCLUT remap mode 1 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,Q]Z          Q]RYppppppppppppppppp
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,Q]Z        R]RY#################
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,Q]Z          S]SY/////////////////
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,Qo]Z  'S]TY|||||||||||||||||
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 has a total of four colour   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mlook up tables (CLUT)                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@H
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92503
+SC,0003
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MForeground and background can use      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mdifferent CLUTs totalling 16 colours   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92504
+SC,0004
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MTo access the colour lookup tables     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M(CLUT) use the <esc><shift>X command   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92505
+SC,0005
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MColours are defined as three digit hex 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mnumbers. eg. Arcoline is fda           
+FL,926,8ff,8ff,700,8ff,8ff  
+DE,Enter your description here
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p925.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92500
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,D]GName    Foreground    Background     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,D]G                       (hex)         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0 Black                   000          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1 Red    ARed Lion      ]Gf00          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2 Green  BGreen Park    ]D0f0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3 Yellow CYellow box    ]Dff0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4 Blue   DBlue Peter    ]G00f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5 MagentaEMagenta Devine]Gf0f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6 Cyan   FCyan Nara     ]D0ff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7 White   White City    ]Dfff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,M Traditional teletext is limited to    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M eight colours                         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92501
+SC,0001
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,D] Name   Foreground   Background       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                        (hex)           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,D0 Navy                 G008            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1ASalmon             ] @fa6            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2BSpring green       ] @07f            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3CGold               ] @fd0            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4DTurquoise          ] @4ed            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5ESilver             ] @ccc            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6FHot pink           ] @f6b            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7GLavender           ] @eef            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 allows for all the colours   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mto be changed                          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@@
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@y]A`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMslUB_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[K_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[k{Ls_w}ww]_}_wM@t
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92502
+SC,0002
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2, Level 2.5 Colour Lookup Tables         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0:Q  ^ RSTUVW     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7, 1:   QQ]  R]  S]  T]  U]  V]  W]  \P   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, CLUTs 0 and 1 have fixed colours.      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, CLUT 0 has the standard colours and    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13, CLUT 1 has darker versions of these    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, colours.                               
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,Q~]Z     t  CCLUT remap mode 1 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,Q]Z          Q]RYppppppppppppppppp
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,Q]Z        R]RY#################
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,Q]Z          S]SY/////////////////
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,Qo]Z  'S]TY|||||||||||||||||
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 has a total of four colour   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mlook up tables (CLUT)                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@H
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92503
+SC,0003
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MForeground and background can use      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mdifferent CLUTs totalling 16 colours   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92504
+SC,0004
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MTo access the colour lookup tables     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M(CLUT) use the <esc><shift>X command   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92505
+SC,0005
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MColours are defined as three digit hex 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mnumbers. eg. Arcoline is fda           
+FL,926,8ff,8ff,700,8ff,8ff  
+DE,Enter your description here
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p925.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92500
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,D  Name    Foreground    Background     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                          (hex)         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0 Black                   000          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1 Red    ARed Lion      ]Gf00          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2 Green  BGreen Park    ]D0f0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3 Yellow CYellow box    ]Dff0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4 Blue   DBlue Peter    ]G00f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5 MagentaEMagenta Devine]Gf0f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6 Cyan   FCyan Nara     ]D0ff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7 White   White City    ]Dfff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,M Traditional teletext is limited to    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M eight colours                         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92501
+SC,0001
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,   Name   Foreground   Background       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                        (hex)           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,D0 Navy                 G008            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1ASalmon             ] @fa6            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2BSpring green       ] @07f            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3CGold               ] @fd0            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4DTurquoise          ] @4ed            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5ESilver             ] @ccc            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6FHot pink           ] @f6b            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7GLavender           ] @eef            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 allows for all the colours   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mto be changed                          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@@
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@y]A`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMslUB_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[K_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[k{Ls_w}ww]_}_wM@t
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92502
+SC,0002
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2, Level 2.5 Colour Lookup Tables         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0:Q  ^ RSTUVW     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7, 1:   QQ]  R]  S]  T]  U]  V]  W]  \P   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, CLUTs 0 and 1 have fixed colours.      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, CLUT 0 has the standard colours and    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13, CLUT 1 has darker versions of these    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, colours.                               
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,Q~]Z     t  CCLUT remap mode 1 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,Q]Z          Q]RYppppppppppppppppp
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,Q]Z        R]RY#################
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,Q]Z          S]SY/////////////////
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,Qo]Z  'S]TY|||||||||||||||||
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 has a total of four colour   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mlook up tables (CLUT)                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@H
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92503
+SC,0003
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MForeground and background can use      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mdifferent CLUTs totalling 16 colours   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92504
+SC,0004
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MTo access the colour lookup tables     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M(CLUT) use the <esc><shift>X command   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92505
+SC,0005
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MColours are defined as three digit hex 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mnumbers. eg. Arcoline is fda           
+FL,926,8ff,8ff,700,8ff,8ff  
+DE,Enter your description here
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p925.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92500
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,D]GName    Foreground    Background     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                          (hex)         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0 Black                   000          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1 Red    ARed Lion      ]Gf00          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2 Green  BGreen Park    ]D0f0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3 Yellow CYellow box    ]Dff0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4 Blue   DBlue Peter    ]G00f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5 MagentaEMagenta Devine]Gf0f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6 Cyan   FCyan Nara     ]D0ff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7 White   White City    ]Dfff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,M Traditional teletext is limited to    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M eight colours                         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92501
+SC,0001
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,   Name   Foreground   Background       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                        (hex)           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,D0 Navy                 G008            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1ASalmon             ] @fa6            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2BSpring green       ] @07f            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3CGold               ] @fd0            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4DTurquoise          ] @4ed            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5ESilver             ] @ccc            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6FHot pink           ] @f6b            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7GLavender           ] @eef            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 allows for all the colours   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mto be changed                          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@@
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@y]A`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMslUB_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[K_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[k{Ls_w}ww]_}_wM@t
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92502
+SC,0002
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2, Level 2.5 Colour Lookup Tables         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0:Q  ^ RSTUVW     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7, 1:   QQ]  R]  S]  T]  U]  V]  W]  \P   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, CLUTs 0 and 1 have fixed colours.      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, CLUT 0 has the standard colours and    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13, CLUT 1 has darker versions of these    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, colours.                               
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,Q~]Z     t  CCLUT remap mode 1 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,Q]Z          Q]RYppppppppppppppppp
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,Q]Z        R]RY#################
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,Q]Z          S]SY/////////////////
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,Qo]Z  'S]TY|||||||||||||||||
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 has a total of four colour   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mlook up tables (CLUT)                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@H
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92503
+SC,0003
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MForeground and background can use      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mdifferent CLUTs totalling 16 colours   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92504
+SC,0004
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MTo access the colour lookup tables     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M(CLUT) use the <esc><shift>X command   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92505
+SC,0005
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MColours are defined as three digit hex 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mnumbers. eg. Arcoline is fda           
+FL,926,8ff,8ff,700,8ff,8ff  
+DE,Enter your description here
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p925.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92500
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,D  Name    Foreground    Background     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                          (hex)         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0 Black                   000          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1 Red    ARed Lion      ]Gf00          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2 Green  BGreen Park    ]D0f0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3 Yellow CYellow box    ]Dff0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4 Blue   DBlue Peter    ]G00f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5 MagentaEMagenta Devine]Gf0f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6 Cyan   FCyan Nara     ]D0ff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7 White   White City    ]Dfff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,M Traditional teletext is limited to    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M eight colours                         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92501
+SC,0001
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,   Name   Foreground   Background       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                        (hex)           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,D0 Navy                 G008            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1ASalmon             ] @fa6            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2BSpring green       ] @07f            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3CGold               ] @fd0            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4DTurquoise          ] @4ed            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5ESilver             ] @ccc            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6FHot pink           ] @f6b            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7GLavender           ] @eef            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 allows for all the colours   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mto be changed                          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@@
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@y]A`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMslUB_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[K_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[k{Ls_w}ww]_}_wM@t
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92502
+SC,0002
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2, Level 2.5 Colour Lookup Tables         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0:Q  ^ RSTUVW     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7, 1:   QQ]  R]  S]  T]  U]  V]  W]  \P   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, CLUTs 0 and 1 have fixed colours.      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, CLUT 0 has the standard colours and    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13, CLUT 1 has darker versions of these    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, colours.                               
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,Q~]Z     t  CCLUT remap mode 1 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,Q]Z          Q]RYppppppppppppppppp
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,Q]Z        R]RY#################
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,Q]Z          S]SY/////////////////
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,Qo]Z  'S]TY|||||||||||||||||
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 has a total of four colour   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mlook up tables (CLUT)                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@H
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92503
+SC,0003
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MForeground and background can use      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mdifferent CLUTs totalling 16 colours   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92504
+SC,0004
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MTo access the colour lookup tables     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M(CLUT) use the <esc><shift>X command   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92505
+SC,0005
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MColours are defined as three digit hex 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mnumbers. eg. Arcoline is fda           
+FL,926,8ff,8ff,700,8ff,8ff  
+DE,Enter your description here
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p925.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92500
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,D]GName    Foreground    Background     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,D]G                       (hex)         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0 Black                   000          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1 Red    ARed Lion      ]Gf00          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2 Green  BGreen Park    ]D0f0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3 Yellow CYellow box    ]Dff0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4 Blue   DBlue Peter    ]G00f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5 MagentaEMagenta Devine]Gf0f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6 Cyan   FCyan Nara     ]D0ff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7 White   White City    ]Dfff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,M Traditional teletext is limited to    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M eight colours                         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92501
+SC,0001
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,A]GName   Foreground   Background       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                        (hex)           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,D0 Navy                 G008            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1ASalmon             ] @fa6            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2BSpring green       ] @07f            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3CGold               ] @fd0            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4DTurquoise          ] @4ed            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5ESilver             ] @ccc            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6FHot pink           ] @f6b            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7GLavender           ] @eef            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 allows for all the colours   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mto be changed                          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@@
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@y]A`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMslUB_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[K_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[k{Ls_w}ww]_}_wM@t
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92502
+SC,0002
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2, Level 2.5 Colour Lookup Tables         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0:Q  ^ RSTUVW     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7, 1:   QQ]  R]  S]  T]  U]  V]  W]  \P   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, CLUTs 0 and 1 have fixed colours.      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, CLUT 0 has the standard colours and    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13, CLUT 1 has darker versions of these    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, colours.                               
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,Q~]Z     t  CCLUT remap mode 1 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,Q]Z          Q]RYppppppppppppppppp
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,Q]Z        R]RY#################
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,Q]Z          S]SY/////////////////
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,Qo]Z  'S]TY|||||||||||||||||
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 has a total of four colour   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mlook up tables (CLUT)                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@H
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92503
+SC,0003
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MForeground and background can use      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mdifferent CLUTs totalling 16 colours   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92504
+SC,0004
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MTo access the colour lookup tables     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M(CLUT) use the <esc><shift>X command   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92505
+SC,0005
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MColours are defined as three digit hex 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mnumbers. eg. Arcoline is fda           
+FL,926,8ff,8ff,700,8ff,8ff  
+DE,Enter your description here
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p925.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92500
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,D  Name    Foreground    Background     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                          (hex)         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0 Black                   000          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1 Red    ARed Lion      ]Gf00          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2 Green  BGreen Park    ]D0f0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3 Yellow CYellow box    ]Dff0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4 Blue   DBlue Peter    ]G00f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5 MagentaEMagenta Devine]Gf0f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6 Cyan   FCyan Nara     ]D0ff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7 White   White City    ]Dfff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,M Traditional teletext is limited to    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M eight colours                         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92501
+SC,0001
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,   Name   Foreground   Background       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                        (hex)           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,D0 Navy                 G008            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1ASalmon             ] @fa6            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2BSpring green       ] @07f            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3CGold               ] @fd0            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4DTurquoise          ] @4ed            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5ESilver             ] @ccc            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6FHot pink           ] @f6b            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7GLavender           ] @eef            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 allows for all the colours   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mto be changed                          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@@
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@y]A`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMslUB_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[K_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[k{Ls_w}ww]_}_wM@t
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92502
+SC,0002
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2, Level 2.5 Colour Lookup Tables         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0:Q  ^ RSTUVW     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7, 1:   QQ]  R]  S]  T]  U]  V]  W]  \P   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, CLUTs 0 and 1 have fixed colours.      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, CLUT 0 has the standard colours and    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13, CLUT 1 has darker versions of these    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, colours.                               
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,Q~]Z     t  CCLUT remap mode 1 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,Q]Z          Q]RYppppppppppppppppp
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,Q]Z        R]RY#################
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,Q]Z          S]SY/////////////////
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,Qo]Z  'S]TY|||||||||||||||||
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 has a total of four colour   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mlook up tables (CLUT)                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@H
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92503
+SC,0003
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MForeground and background can use      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mdifferent CLUTs totalling 16 colours   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92504
+SC,0004
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MTo access the colour lookup tables     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M(CLUT) use the <esc><shift>X command   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92505
+SC,0005
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MColours are defined as three digit hex 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mnumbers. eg. Arcoline is fda           
+FL,926,8ff,8ff,700,8ff,8ff  
+DE,Enter your description here
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p925.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92500
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,D]GName    Foreground    Background     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                          (hex)         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0 Black                   000          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1 Red    ARed Lion      ]Gf00          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2 Green  BGreen Park    ]D0f0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3 Yellow CYellow box    ]Dff0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4 Blue   DBlue Peter    ]G00f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5 MagentaEMagenta Devine]Gf0f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6 Cyan   FCyan Nara     ]D0ff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7 White   White City    ]Dfff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,M Traditional teletext is limited to    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M eight colours                         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92501
+SC,0001
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,   Name   Foreground   Background       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                        (hex)           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,D0 Navy                 G008            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1ASalmon             ] @fa6            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2BSpring green       ] @07f            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3CGold               ] @fd0            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4DTurquoise          ] @4ed            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5ESilver             ] @ccc            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6FHot pink           ] @f6b            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7GLavender           ] @eef            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 allows for all the colours   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mto be changed                          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@@
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@y]A`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMslUB_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[K_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[k{Ls_w}ww]_}_wM@t
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92502
+SC,0002
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2, Level 2.5 Colour Lookup Tables         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0:Q  ^ RSTUVW     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7, 1:   QQ]  R]  S]  T]  U]  V]  W]  \P   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, CLUTs 0 and 1 have fixed colours.      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, CLUT 0 has the standard colours and    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13, CLUT 1 has darker versions of these    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, colours.                               
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,Q~]Z     t  CCLUT remap mode 1 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,Q]Z          Q]RYppppppppppppppppp
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,Q]Z        R]RY#################
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,Q]Z          S]SY/////////////////
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,Qo]Z  'S]TY|||||||||||||||||
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 has a total of four colour   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mlook up tables (CLUT)                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@H
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92503
+SC,0003
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MForeground and background can use      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mdifferent CLUTs totalling 16 colours   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92504
+SC,0004
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MTo access the colour lookup tables     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M(CLUT) use the <esc><shift>X command   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92505
+SC,0005
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MColours are defined as three digit hex 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mnumbers. eg. Arcoline is fda           
+FL,926,8ff,8ff,700,8ff,8ff  
+DE,Enter your description here
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p925.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92500
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,D  Name    Foreground    Background     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                          (hex)         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0 Black                   000          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1 Red    ARed Lion      ]Gf00          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2 Green  BGreen Park    ]D0f0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3 Yellow CYellow box    ]Dff0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4 Blue   DBlue Peter    ]G00f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5 MagentaEMagenta Devine]Gf0f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6 Cyan   FCyan Nara     ]D0ff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7 White   White City    ]Dfff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,M Traditional teletext is limited to    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M eight colours                         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92501
+SC,0001
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,   Name   Foreground   Background       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                        (hex)           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,D0 Navy                 G008            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1ASalmon             ] @fa6            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2BSpring green       ] @07f            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3CGold               ] @fd0            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4DTurquoise          ] @4ed            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5ESilver             ] @ccc            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6FHot pink           ] @f6b            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7GLavender           ] @eef            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 allows for all the colours   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mto be changed                          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@@
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@y]A`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMslUB_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[K_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[k{Ls_w}ww]_}_wM@t
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92502
+SC,0002
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2, Level 2.5 Colour Lookup Tables         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0:Q  ^ RSTUVW     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7, 1:   QQ]  R]  S]  T]  U]  V]  W]  \P   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, CLUTs 0 and 1 have fixed colours.      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, CLUT 0 has the standard colours and    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13, CLUT 1 has darker versions of these    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, colours.                               
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,Q~]Z     t  CCLUT remap mode 1 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,Q]Z          Q]RYppppppppppppppppp
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,Q]Z        R]RY#################
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,Q]Z          S]SY/////////////////
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,Qo]Z  'S]TY|||||||||||||||||
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 has a total of four colour   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mlook up tables (CLUT)                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@H
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92503
+SC,0003
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MForeground and background can use      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mdifferent CLUTs totalling 16 colours   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92504
+SC,0004
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MTo access the colour lookup tables     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M(CLUT) use the <esc><shift>X command   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92505
+SC,0005
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MColours are defined as three digit hex 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mnumbers. eg. Arcoline is fda           
+FL,926,8ff,8ff,700,8ff,8ff  
+DE,Enter your description here
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p925.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92500
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,D]GName    Foreground    Background     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,D]G                       (hex)         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0 Black                   000          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1 Red    ARed Lion      ]Gf00          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2 Green  BGreen Park    ]D0f0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3 Yellow CYellow box    ]Dff0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4 Blue   DBlue Peter    ]G00f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5 MagentaEMagenta Devine]Gf0f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6 Cyan   FCyan Nara     ]D0ff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7 White   White City    ]Dfff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,M Traditional teletext is limited to    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M eight colours                         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92501
+SC,0001
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,D] Name   Foreground   Background       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                        (hex)           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,D0 Navy                 G008            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1ASalmon             ] @fa6            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2BSpring green       ] @07f            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3CGold               ] @fd0            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4DTurquoise          ] @4ed            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5ESilver             ] @ccc            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6FHot pink           ] @f6b            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7GLavender           ] @eef            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 allows for all the colours   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mto be changed                          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@@
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@y]A`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMslUB_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[K_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[k{Ls_w}ww]_}_wM@t
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92502
+SC,0002
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2, Level 2.5 Colour Lookup Tables         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0:Q  ^ RSTUVW     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7, 1:   QQ]  R]  S]  T]  U]  V]  W]  \P   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, CLUTs 0 and 1 have fixed colours.      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, CLUT 0 has the standard colours and    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13, CLUT 1 has darker versions of these    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, colours.                               
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,Q~]Z     t  CCLUT remap mode 1 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,Q]Z          Q]RYppppppppppppppppp
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,Q]Z        R]RY#################
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,Q]Z          S]SY/////////////////
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,Qo]Z  'S]TY|||||||||||||||||
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 has a total of four colour   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mlook up tables (CLUT)                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@H
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92503
+SC,0003
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MForeground and background can use      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mdifferent CLUTs totalling 16 colours   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92504
+SC,0004
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MTo access the colour lookup tables     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M(CLUT) use the <esc><shift>X command   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92505
+SC,0005
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MColours are defined as three digit hex 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mnumbers. eg. Arcoline is fda           
+FL,926,8ff,8ff,700,8ff,8ff  
+DE,Enter your description here
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p925.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92500
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,D  Name    Foreground    Background     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                          (hex)         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0 Black                   000          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1 Red    ARed Lion      ]Gf00          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2 Green  BGreen Park    ]D0f0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3 Yellow CYellow box    ]Dff0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4 Blue   DBlue Peter    ]G00f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5 MagentaEMagenta Devine]Gf0f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6 Cyan   FCyan Nara     ]D0ff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7 White   White City    ]Dfff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,M Traditional teletext is limited to    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M eight colours                         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92501
+SC,0001
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,   Name   Foreground   Background       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                        (hex)           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,D0 Navy                 G008            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1ASalmon             ] @fa6            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2BSpring green       ] @07f            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3CGold               ] @fd0            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4DTurquoise          ] @4ed            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5ESilver             ] @ccc            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6FHot pink           ] @f6b            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7GLavender           ] @eef            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 allows for all the colours   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mto be changed                          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@@
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@y]A`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMslUB_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[K_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[k{Ls_w}ww]_}_wM@t
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92502
+SC,0002
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2, Level 2.5 Colour Lookup Tables         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0:Q  ^ RSTUVW     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7, 1:   QQ]  R]  S]  T]  U]  V]  W]  \P   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, CLUTs 0 and 1 have fixed colours.      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, CLUT 0 has the standard colours and    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13, CLUT 1 has darker versions of these    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, colours.                               
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,Q~]Z     t  CCLUT remap mode 1 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,Q]Z          Q]RYppppppppppppppppp
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,Q]Z        R]RY#################
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,Q]Z          S]SY/////////////////
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,Qo]Z  'S]TY|||||||||||||||||
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 has a total of four colour   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mlook up tables (CLUT)                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@H
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92503
+SC,0003
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MForeground and background can use      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mdifferent CLUTs totalling 16 colours   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92504
+SC,0004
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MTo access the colour lookup tables     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M(CLUT) use the <esc><shift>X command   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92505
+SC,0005
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MColours are defined as three digit hex 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mnumbers. eg. Arcoline is fda           
+FL,926,8ff,8ff,700,8ff,8ff  
+DE,Enter your description here
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p925.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92500
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,D]GName    Foreground    Background     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                          (hex)         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0 Black                   000          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1 Red    ARed Lion      ]Gf00          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2 Green  BGreen Park    ]D0f0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3 Yellow CYellow box    ]Dff0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4 Blue   DBlue Peter    ]G00f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5 MagentaEMagenta Devine]Gf0f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6 Cyan   FCyan Nara     ]D0ff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7 White   White City    ]Dfff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,M Traditional teletext is limited to    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M eight colours                         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92501
+SC,0001
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,   Name   Foreground   Background       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                        (hex)           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,D0 Navy                 G008            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1ASalmon             ] @fa6            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2BSpring green       ] @07f            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3CGold               ] @fd0            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4DTurquoise          ] @4ed            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5ESilver             ] @ccc            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6FHot pink           ] @f6b            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7GLavender           ] @eef            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 allows for all the colours   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mto be changed                          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@@
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@y]A`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMslUB_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[K_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[k{Ls_w}ww]_}_wM@t
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92502
+SC,0002
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2, Level 2.5 Colour Lookup Tables         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0:Q  ^ RSTUVW     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7, 1:   QQ]  R]  S]  T]  U]  V]  W]  \P   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, CLUTs 0 and 1 have fixed colours.      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, CLUT 0 has the standard colours and    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13, CLUT 1 has darker versions of these    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, colours.                               
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,Q~]Z     t  CCLUT remap mode 1 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,Q]Z          Q]RYppppppppppppppppp
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,Q]Z        R]RY#################
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,Q]Z          S]SY/////////////////
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,Qo]Z  'S]TY|||||||||||||||||
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 has a total of four colour   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mlook up tables (CLUT)                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@H
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92503
+SC,0003
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MForeground and background can use      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mdifferent CLUTs totalling 16 colours   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92504
+SC,0004
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MTo access the colour lookup tables     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M(CLUT) use the <esc><shift>X command   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92505
+SC,0005
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MColours are defined as three digit hex 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mnumbers. eg. Arcoline is fda           
+FL,926,8ff,8ff,700,8ff,8ff  
+DE,Enter your description here
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p925.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92500
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,D  Name    Foreground    Background     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                          (hex)         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0 Black                   000          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1 Red    ARed Lion      ]Gf00          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2 Green  BGreen Park    ]D0f0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3 Yellow CYellow box    ]Dff0          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4 Blue   DBlue Peter    ]G00f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5 MagentaEMagenta Devine]Gf0f          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6 Cyan   FCyan Nara     ]D0ff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7 White   White City    ]Dfff          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,M Traditional teletext is limited to    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M eight colours                         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92501
+SC,0001
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,   Name   Foreground   Background       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                        (hex)           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,D0 Navy                 G008            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, 1ASalmon             ] @fa6            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, 2BSpring green       ] @07f            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, 3CGold               ] @fd0            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, 4DTurquoise          ] @4ed            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, 5ESilver             ] @ccc            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16, 6FHot pink           ] @f6b            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18, 7GLavender           ] @eef            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 allows for all the colours   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mto be changed                          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@@
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@cwkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@pZA`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@y]A`UB_wLs_w}ww]_}_wM@p
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMslUB_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[K_wLs_w}ww]_}_wM@t
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@O@xkF|ww@yMs|[k{Ls_w}ww]_}_wM@t
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92502
+SC,0002
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2, Level 2.5 Colour Lookup Tables         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, 0:Q  ^ RSTUVW     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7, 1:   QQ]  R]  S]  T]  U]  V]  W]  \P   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10, CLUTs 0 and 1 have fixed colours.      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12, CLUT 0 has the standard colours and    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13, CLUT 1 has darker versions of these    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14, colours.                               
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,Q~]Z     t  CCLUT remap mode 1 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,Q]Z          Q]RYppppppppppppppppp
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,Q]Z        R]RY#################
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,Q]Z          S]SY/////////////////
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,Qo]Z  'S]TY|||||||||||||||||
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MLevel 2.5 has a total of four colour   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mlook up tables (CLUT)                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@H
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92503
+SC,0003
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MForeground and background can use      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mdifferent CLUTs totalling 16 colours   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92504
+SC,0004
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MTo access the colour lookup tables     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,M(CLUT) use the <esc><shift>X command   
+FL,926,8ff,8ff,700,8ff,8ff  
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,92505
+SC,0005
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,MColours are defined as three digit hex 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,Mnumbers. eg. Arcoline is fda           
 FL,926,8ff,8ff,700,8ff,8ff  
