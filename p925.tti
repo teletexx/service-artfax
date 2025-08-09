@@ -1,7 +1,36 @@
 DE,Guide to Level 2.5 colours in Muttlee
 CT,8,T
-PN,10001
+PN,92501
 SC,0001
+PS,8000
+OL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,                                        
+OL,2,   Name    Foreground    Background     
+OL,3,                          (hex)         
+OL,4, 0 Black                   000          
+OL,5,                                        
+OL,6, 1 Red    ARed Lion      ]Gf00          
+OL,7,                                        
+OL,8, 2 Green  BGreen Park    ]D0f0          
+OL,9,                                        
+OL,10, 3 Yellow CYellow box    ]Dff0          
+OL,11,                                        
+OL,12, 4 Blue   DBlue Peter    ]G00f          
+OL,13,                                        
+OL,14, 5 MagentaEMagenta Devine]Gf0f          
+OL,15,                                        
+OL,16, 6 Cyan   FCyan Nara     ]D0ff          
+OL,17,                                        
+OL,18, 7 White   White City    ]Dfff          
+OL,19,                                        
+OL,20,M Traditional teletext is limited to    
+OL,21,                                        
+OL,22,M eight colours                         
+OL,23,                                        
+OL,24,A Next   B....       C....      FHelp   
+FL,926,8ff,8ff,700,8ff,8ff  
+PN,10002
+SC,0002
 PS,8000
 RE,0
 OL,10,                                  as    
@@ -20,8 +49,8 @@ OL,22,Mlook up tables (CLUT)
 OL,23,                                        
 FL,8ff,8ff,8ff,8ff,8ff,8ff
 CT,8,T
-PN,10002
-SC,0002
+PN,10003
+SC,0003
 PS,8000
 RE,0
 OL,1,D]GSample of using 16 colours           
@@ -43,8 +72,8 @@ OL,20,C]@MForeground and background can use
 OL,22,C]@Mdifferent CLUTs totalling 16 colours
 FL,8ff,8ff,8ff,8ff,8ff,8ff
 CT,8,T
-PN,10003
-SC,0003
+PN,10004
+SC,0004
 PS,8000
 RE,0
 OL,7,                 foreground colours     
