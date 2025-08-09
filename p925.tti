@@ -1,7 +1,7 @@
 DE,Guide to Level 2.5 colours in Muttlee
 CT,8,T
-PN,10002
-SC,0002
+PN,10001
+SC,0001
 PS,8000
 RE,0
 OL,10,                                  as    
@@ -20,8 +20,8 @@ OL,22,Mlook up tables (CLUT)
 OL,23,                                        
 FL,8ff,8ff,8ff,8ff,8ff,8ff
 CT,8,T
-PN,10003
-SC,0003
+PN,10002
+SC,0002
 PS,8000
 RE,0
 OL,1,D]GSample of using 16 colours           
@@ -43,8 +43,8 @@ OL,20,C]@MForeground and background can use
 OL,22,C]@Mdifferent CLUTs totalling 16 colours
 FL,8ff,8ff,8ff,8ff,8ff,8ff
 CT,8,T
-PN,10004
-SC,0004
+PN,10003
+SC,0003
 PS,8000
 RE,0
 OL,7,                 foreground colours     
