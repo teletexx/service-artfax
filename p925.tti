@@ -5,7 +5,7 @@ SC,0001
 PS,8000
 OL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
-OL,2,   Name    Foreground    Background     
+OL,2,D]GName    Foreground    Background     
 OL,3,                          (hex)         
 OL,4, 0 Black                   000          
 OL,5,                                        
@@ -35,12 +35,12 @@ PS,8000
 RE,0
 OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@H
 OL,0,        ARTFAX mpp DAY dd MTH  Chh:nn.ss
-OL,2, Level 2.5 Colour Lookup Tables         
+OL,2, D]GLevel 2.5 Colour Lookup Tables      
 OL,4, 0:Q  ^ RSTUVW     
 OL,6,                                        
 OL,7, 1:   QQ]  R]  S]  T]  U]  V]  W]  \P   
 OL,9,                            
-OL,10,                                  as    
+OL,10, CLUTs 0 and 1 have fixed colours as    
 OL,11, used on this page.                     
 OL,12,                                        
 OL,13, CLUTs 2 and 3 have redefinable colours.
