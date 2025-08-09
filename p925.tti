@@ -83,16 +83,21 @@ PN,10004
 SC,0004
 PS,8000
 RE,0
-OL,7,                 foreground colours     
-OL,8,                                        
-OL,9,   3) Set CLUT 3 to background.         
-OL,10,                                        
-OL,11,   4) Press Page Up to get to page 2    
-OL,12,      of the edit page and select       
-OL,13,      CLUT remap mode 7.                
-OL,14,                                        
-OL,15,   5) Press x to save your settings and 
-OL,16,      exit the edit page.               
+OL,1,D]GAccessing extra colours in Muttlee   
+OL,3,   1) Enter the level 2.5 palette       
+OL,4,      editor using <esc><shift>x        
+OL,5,                                        
+OL,6,   2) Enter foreground colours into     
+OL,7,      CLUT 2 and background into        
+OL,8,      CLUT 3.                           
+OL,9,                                        
+OL,10,   3) Press Page Up to get to page 2    
+OL,11,      of the edit page and select       
+OL,12,      CLUT remap mode 7.                
+OL,13,                                        
+OL,14,   4 Press x to save your settings and  
+OL,15,      exit the edit page.               
+OL,16,                                        
 OL,17,                                        
 OL,18,                                        
 OL,19,                                        
@@ -100,4 +105,5 @@ OL,20,MTo access the colour lookup tables
 OL,21,                                        
 OL,22,M(CLUT) use the <esc><shift>X command   
 OL,23,                                        
+OL,24,ATBA     BTBA     C TBA    F TBA        
 FL,8ff,8ff,8ff,8ff,8ff,8ff
