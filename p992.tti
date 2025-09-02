@@ -4,25 +4,27 @@ SC,0000
 PS,8000
 CT,8,T
 OL,1,MD]CMETADATA                            
-OL,3,S vsCFastext linksSssssssssssssssssssssy
-OL,4,S 5Qx|||tRz|tSx|||tVx|||t           Sj
-OL,5,S 5Qo?Ro?So?Vo?           Sj
-OL,6,S 5                                    j
-OL,7,S 5G nnn   nnn   nnn   nnn            Sj
-OL,8,S 5                                   Sj
-OL,9,S wssssssssssssssssssssssssssssssssssss{
-OL,10,S 5                                    j
-OL,11,S 5 GBlk background sub.D]YECYES      Sj
-OL,12,S 5                                   Sj
-OL,13,S wsCSide panelsSssssssssssssssssssssss{
-OL,14,S 5                                    j
-OL,15,S 5 GLeft columns             0       Sj
-OL,16,S 5                                   Sj
-OL,17,S 5 GRight columns            0       Sj
-OL,18,S uppppppppppppppppppppppppppppppppppppz
-OL,19,S ),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,&
-OL,21,xThis shows what the metadata editor    
-OL,22, looks like. <esc>X enters the editor.  
+OL,3,                                     3/3
+OL,4,S vsCFastext linksSssssssssssssssssssssy
+OL,5,S 5Qx|||tRz|tSx|||tVx|||t           Sj
+OL,6,S 5Qo?Ro?So?Vo?           Sj
+OL,7,S 5                                    j
+OL,8,S 5G nnn   nnn   nnn   nnn            Sj
+OL,9,S 5                                   Sj
+OL,10,S wssssssssssssssssssssssssssssssssssss{
+OL,11,S 5                                    j
+OL,12,S 5 GBlk background sub.D]YECYES      Sj
+OL,13,S 5                                   Sj
+OL,14,S wsCSide panelsSssssssssssssssssssssss{
+OL,15,S 5                                    j
+OL,16,S 5 GLeft columns             0       Sj
+OL,17,S 5                                   Sj
+OL,18,S 5 GRight columns            0       Sj
+OL,19,S uppppppppppppppppppppppppppppppppppppz
+OL,20,S ),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,&
+OL,21,                                        
+OL,22,xThis shows what the metadata editor    
+OL,23, looks like. <esc>X enters the editor.  
 OL,24,A Next   B....       C....      FHelp   
 FL,991,8ff,8ff,700,8ff,8ff
 
