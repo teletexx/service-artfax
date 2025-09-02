@@ -3,8 +3,8 @@ PN,99200
 SC,0000
 PS,8000
 CT,8,T
-OL,1,MD]CPAGE ENHANCEMENTS-X/28/0 format 1   
-OL,3,S vsCColoursSssssssssssssssssssssssssssy
+OL,1,MD]CMETADATA                            
+OL,3,S vsCCostext linksSssssssssssssssssssssy
 OL,4,S 5                       QSj
 OL,5,S 5G Default screen colourQSj
 OL,6,S 5                       RSj
