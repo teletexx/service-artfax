@@ -1,3 +1,4 @@
+
 DE,Metadata editor mockup
 PN,99200
 SC,0000
@@ -27,34 +28,3 @@ OL,22,xThis shows what the metadata editor
 OL,23, looks like. <esc>X enters the editor.  
 OL,24,A Next   B....       C....      FHelp   
 FL,991,8ff,8ff,700,8ff,8ff
-
-DE,Metadata editor mockup
-RM,1,INVALID PN. MARKED FOR DELETIONPN,99200
-SC,0000
-PS,8000
-CT,8,T
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,MD]CMETADATA                            
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                                     3/3
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,S vsCFastext linksSssssssssssssssssssssy
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,S 5Qx|||tRx|||tSx|||tVx|||t           Sj
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,S 5Qo?Ro?So?Vo?           Sj
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,S 5                                    j
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,S 5G nnn   nnn   nnn   nnn            Sj
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,S 5                                   Sj
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,S wsCPage timingSssssssssssssssssssssss{
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,S 5                                    j
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,S 5 GCycle time (Sd sub.D]YECYES      Sj
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,S 5                                   Sj
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,S wsCSide panelsSssssssssssssssssssssss{
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,S 5                                    j
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,S 5 GLeft columns             0       Sj
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,S 5                                   Sj
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,S 5 GRight columns            0       Sj
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,S uppppppppppppppppppppppppppppppppppppz
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,S ),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,&
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,xThis shows what the metadata editor    
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23, looks like. <esc>X enters the editor.  
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
-FL,991,8ff,8ff,700,8ff,8ff
-
