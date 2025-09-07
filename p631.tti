@@ -20,14 +20,113 @@ OL,11,             Placeholder
 OL,12,                                        
 OL,13,                                        
 OL,14,                                        
-OL,15,                                        
-OL,16,                                        
+OL,15,       Please insert your               
+OL,16,       your art here                    
 OL,17,                                        
-OL,18,                                        
-OL,19,                                        
+OL,18,       }S'##########+                   
+OL,19,        S                               
 OL,20,                                        
 OL,21,                                        
 OL,22,                                        
 OL,23,                                        
 OL,24,A Next   B....       C....      FHelp   
+FL,632,8ff,8ff,700,8ff,8ff  
+DE,Placeholder
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p631.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,63100
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,             Placeholder                
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,       Please insert your art here      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,       your art here                    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
+FL,632,8ff,8ff,700,8ff,8ff  
+DE,Placeholder
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p631.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,63100
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,             Placeholder                
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,       Please insert your               
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,       your art here                    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,       }S'##########                    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
+FL,632,8ff,8ff,700,8ff,8ff  
+DE,Placeholder
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p631.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,63100
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,             Placeholder                
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,       Please insert your art here      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,       your art here                    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
 FL,632,8ff,8ff,700,8ff,8ff  
