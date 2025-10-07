@@ -7,7 +7,7 @@ OL,1,MD]CX28 - Languages
 OL,3,                                     4/4
 OL,4,S vsCRegionSsssssssssssssssssssssssssssy
 OL,5,S 5                                   Sj
-OL,6,S 5AAA0  A1  A2  F3  A4  A6  A8  A10  Sj
+OL,6,S 5AAA0  A1  A2B]@3\ A4  A6  A8  A10  Sj
 OL,7,S 5                                    j
 OL,8,S wsCLanguageSsssssssssssssssssssssssss{
 OL,9,S 5                                   Sj
@@ -20,8 +20,8 @@ OL,15,S 5A6 - Italian                       Sj
 OL,16,S 5C                                  Sj
 OL,17,S wssssssssssssssssssssssssssssssssssss{
 OL,18,                                        
-OL,19,  .A]F0B]E1                             
-OL,20,   rnc0ync1                             
+OL,19,  . AA0B]E1                             
+OL,20,   .r.0ync1                             
 OL,21,                                        
 OL,22,xThis shows what the metadata editor    
 OL,23, looks like. <esc>X enters the editor.  
