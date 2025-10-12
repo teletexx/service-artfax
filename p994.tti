@@ -7,7 +7,7 @@ OL,1,MD]CX28 - Languages
 OL,3,                                     4/4
 OL,4,  ABCDEFGHIJKLMNOPQRSTUVWXYZ            
 OL,5,  abcdefghijklmnopqrstuvwxyz          Sj
-OL,6,  B,`!"#$%^&*( +={[}\~_|\`¬             j
+OL,6,  B,`!"#$%^&*( +={[}\~_|\`B,             j
 OL,7,S 5                                    j
 OL,8,S wsCLanguageSsssssssssssssssssssssssss{
 OL,9,S 5                                   Sj
@@ -27,4 +27,4 @@ OL,22, Move over the option that you want
 OL,23, and press <space> to select it.        
 OL,24,A Next   B....       C....      FHelp   
 OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@D
-FL,100,222,340,560,8ff,08f  
+FL,100,222,340,560,8ff,08f                                        
