@@ -10,19 +10,19 @@ OL,1,SM]APacket 28 - Languages
 OL,2,                                        
 OL,3,                                        
 OL,4,  There are 17 character sets. These are
-OL,5,  grouped in  region and language.      
-OL,6,                                        
+OL,5,  grouped in eight regions each with    
+OL,6,  its own set of languages.             
 OL,7,                                        
-OL,8,                                        
-OL,9,                                        
-OL,10,                                        
+OL,8,  Move the cursor over a region number  
+OL,9,  and then press Space. A set of        
+OL,10,  languages will appear.                
 OL,11,                                        
-OL,12,                                        
-OL,13,                                        
+OL,12,  Then move the cursor over the language
+OL,13,  that you want and again press Space.  
 OL,14,                                        
-OL,15,                                        
-OL,16,                  TBA                   
-OL,17,                                        
+OL,15,  You can also select a secondary       
+OL,16,  language so that you can mix two      
+OL,17,  languages on the same page.           
 OL,18,                                        
 OL,19,                                        
 OL,20,                                        
