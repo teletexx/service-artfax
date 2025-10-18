@@ -9,22 +9,22 @@ OL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,SM]APacket 28 - Languages               
 OL,2,                                        
 OL,3,                                        
-OL,4,  There are 17Bcharacter sets. These are
-OL,5,  grouped in eightBregions each with    
+OL,4,  There are 17BcharacterGsets. These are
+OL,5,  grouped in eightBregionsGeach with    
 OL,6,  its own set ofBlanguages.             
 OL,7,                                        
-OL,8, CMove the cursor over aBregion number  
-OL,9, Cand then pressBSpace. A set of        
+OL,8, CMove the cursor over aBregionCnumber  
+OL,9, Cand then pressBSpace.CA set of        
 OL,10, BlanguagesCwill appear.                
 OL,11,                                        
 OL,12, CThen move the cursor over theBlanguage
 OL,13, Cthat you want and again pressBSpace.  
 OL,14,                                        
 OL,15,  You can also select a secondary       
-OL,16,  language so that you can mix two      
-OL,17,  languages on the same page.           
+OL,16, BlanguageGso that you can mix two      
+OL,17, BlanguagesGon the same page.           
 OL,18,                                        
-OL,19,  Switching between languages uses the  
+OL,19,  Switching betweenBlanguagesGuses the  
 OL,20,  <esc>,<ctrl>s command,                
 OL,21,                                        
 OL,22,                                        
