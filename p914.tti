@@ -6,10 +6,10 @@ PN,91400
 SC,0000
 PS,8000
 OL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                                        
+OL,1,SM]APacket 28 - Languages               
 OL,2,                                        
 OL,3,                                        
-OL,4,                                        
+OL,4,  Packet 28 specifies                   
 OL,5,                                        
 OL,6,                                        
 OL,7,                                        
