@@ -9,8 +9,8 @@ OL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,SM]APacket 28 - Languages               
 OL,2,                                        
 OL,3,                                        
-OL,4,  Packet 28 specifies                   
-OL,5,                                        
+OL,4,  There are 17 character sets. These are
+OL,5,  grouped in  region and language.      
 OL,6,                                        
 OL,7,                                        
 OL,8,                                        
