@@ -7,15 +7,15 @@ SC,0000
 PS,8000
 RE,0
 OL,0,        STI-TV I will survive |ITV1     
-OL,1, Yes we haveS                           
-OL,2, recognisableS                          
-OL,3, bananas!S                              
-OL,4,S       $                               
-OL,5,      There is nothing on this page     
-OL,6,      but see Youtube video             
-OL,7,                                        
-OL,8,     CHappy Birthday YLE Text           
-OL,9,      for what used to be here.         
+OL,1, Yes we haveS           S fc$           
+OL,2, recognisableS           ^jWjTW   
+OL,3, bananas!S               ^jTj   
+OL,4,S       $                ^jWjTW   
+OL,5,ewredSThere is nothing on jj            
+OL,6,beeES but see Youtube videjj            
+OL,7, ELAY                                   
+OL,8, EUT CHappy Birthday YLE Text           
+OL,9, RED  for what used to be here.         
 OL,10,                                        
 OL,11,                                        
 OL,12,                                        
@@ -31,4 +31,174 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,A Next   B....       C....      FHelp   
+FL,129,8ff,8ff,700,8ff,8ff  
+DE,Sofa Club 29/10/2021
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p128.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,12800
+SC,0000
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        STI-TV I will survive |ITV1     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1, Yes we haveS           S fc$           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2, recognisableS           ^jWjTW   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3, bananas!S               ^jTj   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,S       $                ^jWjTW   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,      There is nothing on this page     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, eeE  but see Youtube video             
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7, ELAY                                   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, EUT CHappy Birthday YLE Text           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9, RED  for what used to be here.         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,                                    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
+FL,129,8ff,8ff,700,8ff,8ff  
+DE,Sofa Club 29/10/2021
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p128.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,12800
+SC,0000
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        STI-TV I will survive |ITV1     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1, Yes we haveS           S fc$           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2, recognisableS           ^jWjTW   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3, bananas!S               ^jTj   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,S       $                ^jWjTW   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,ewred There is nothing on this page     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, eeE  but see Youtube video             
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7, ELAY                                   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, EUT CHappy Birthday YLE Text           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9, RED  for what used to be here.         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,                                    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
+FL,129,8ff,8ff,700,8ff,8ff  
+DE,Sofa Club 29/10/2021
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p128.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,12800
+SC,0000
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        STI-TV I will survive |ITV1     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1, Yes we haveS           S fc$           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2, recognisableS           ^jWjTW   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3, bananas!S               ^jTj   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,S       $                ^jWjTW   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,      There is nothing on this page     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, eeE  but see Youtube video             
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7, ELAY                                   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, EUT CHappy Birthday YLE Text           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9, RED  for what used to be here.         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,                                    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
+FL,129,8ff,8ff,700,8ff,8ff  
+DE,Sofa Club 29/10/2021
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p128.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,12800
+SC,0000
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        STI-TV I will survive |ITV1     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1, Yes we haveS           S fc$           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2, recognisableS           ^jWjTW   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3, bananas!S               ^jTj   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,S       $                ^jWjTW   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,ewred There is nothing on this page     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, eeE  but see Youtube video             
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7, ELAY                                   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, EUT CHappy Birthday YLE Text           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9, RED  for what used to be here.         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,                                    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
+FL,129,8ff,8ff,700,8ff,8ff  
+DE,Sofa Club 29/10/2021
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p128.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,12800
+SC,0000
+PS,8000
+RE,0
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,        STI-TV I will survive |ITV1     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1, Yes we haveS           S fc$           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2, recognisableS           ^jWjTW   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3, bananas!S               ^jTj   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,S       $                ^jWjTW   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,      There is nothing on this page     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, eeE  but see Youtube video             
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7, ELAY                                   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8, EUT CHappy Birthday YLE Text           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9, RED  for what used to be here.         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,                                    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
 FL,129,8ff,8ff,700,8ff,8ff  
