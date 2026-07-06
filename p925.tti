@@ -29,7 +29,7 @@ OL,22,M eight colours
 OL,23,                                        
 OL,24,A Next   B....       C....      FHelp   
 FL,926,8ff,8ff,700,8ff,8ff  
-PN,10002
+PN,92502
 SC,0002
 PS,8000
 RE,0
@@ -56,7 +56,7 @@ OL,22,Mlook up tables (CLUT)
 OL,23,                                        
 FL,8ff,8ff,8ff,8ff,8ff,8ff
 CT,8,T
-PN,10003
+PN,92503
 SC,0003
 PS,8000
 RE,0
@@ -79,7 +79,7 @@ OL,20,C]@MForeground and background can use
 OL,22,C]@Mdifferent CLUTs totalling 16 colours
 FL,8ff,8ff,8ff,8ff,8ff,8ff
 CT,8,T
-PN,10004
+PN,92504
 SC,0004
 PS,8000
 RE,0
