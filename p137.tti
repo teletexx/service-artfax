@@ -8,12 +8,12 @@ PS,8000
 OL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Attention! Level 2.5 palette. Mode 1    
 OL,2,   12345670                             
-OL,3,Q^RRSD V V W PPA Foreground is normal 
-OL,4, A]B]S]D]E]F]G]@]]ground is darker      
-OL,5,                                        
-OL,6,                                        
-OL,7,   greetings to all of you!             
-OL,8,                                        
+OL,3,Q^RRSTUVWP@Foreground is normal 
+OL,4, A]B]S]D]E]F]G]P] @ground is darker     
+OL,5,R                                       
+OL,6,R                                       
+OL,7,R @greetings to all of you!             
+OL,8,R                                       
 OL,9,                                        
 OL,10,                                        
 OL,11,                                        
