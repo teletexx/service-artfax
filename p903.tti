@@ -27,12 +27,126 @@ OL,18,R]ZRw               b1
 OL,19,R]ZR                           
 OL,20,R]ZR?                 +'       
 OL,21,                                        
-OL,22,S]ZSw57575w5!5w1w1                      
-OL,23,S]ZSu5u5u5u5 5u0p5                      
+OL,22,S]ZSiij5j"!k7j5 3jw!                 
+OL,23,S]ZSjj*u:  j5ju0pju0                 
 OL,24,A Next   B....       C....      FHelp   
 OL,28,@@@@@Cuk@|wKpZA`UB_wLsUq}ww]_}_wM@@
 OL,28,@@@@@Cuk@|wKpZA`UB_wLsUq}ww]_}_wM@x
 OL,28,@@@@@Cuw@|wKpZA`UB_wLCIp}ww]_}_wM@x
 OL,28,@@@@@CuwP}uKpZA`UB_wLCI@Ppw]_}_wM@x
 OL,28,@@@@@CuwP}uC@pZA`UB_wLCI@P@Ap]_}_wM@|
+FL,904,8ff,8ff,700,8ff,8ff  
+DE,LED indicator boards. Level 2.5
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p903.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,90300
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXFLEATAX mpp DAY dd MTHC hh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2, This is an example of an LED bus sign. 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3, Using remap mode 7 with CLUT 2 and 3.  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,Q]                                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,Q]Z~}  } ~}   }   h }     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,Q]Z                         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,Q]Zo    ?           ~?     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,Q]Z      }0                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,Q]Z?    "} o? o? ?          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,Q]                                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,R]ZR} ~}             xt       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,R]RZ                           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,R]ZRw               b1       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,R]ZR                           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,R]ZR?                 +'       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,S]ZS                                    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,S]ZSu5u5u5u5 5u0                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@Cuk@|wKpZA`UB_wLsUq}ww]_}_wM@@
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@Cuk@|wKpZA`UB_wLsUq}ww]_}_wM@x
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@Cuw@|wKpZA`UB_wLCIp}ww]_}_wM@x
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@CuwP}uKpZA`UB_wLCI@Ppw]_}_wM@x
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@CuwP}uC@pZA`UB_wLCI@P@Ap]_}_wM@|
+FL,904,8ff,8ff,700,8ff,8ff  
+DE,LED indicator boards. Level 2.5
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p903.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,90300
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXFLEATAX mpp DAY dd MTHC hh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2, This is an example of an LED bus sign. 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3, Using remap mode 7 with CLUT 2 and 3.  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,Q]                                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,Q]Z~}  } ~}   }   h }     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,Q]Z                         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,Q]Zo    ?           ~?     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,Q]Z      }0                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,Q]Z?    "} o? o? ?          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,Q]                                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,R]ZR} ~}             xt       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,R]RZ                           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,R]ZRw               b1       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,R]ZR                           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,R]ZR?                 +'       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,S]ZSiij5j"!k7                         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,S]ZSjj*u:  j5                         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@Cuk@|wKpZA`UB_wLsUq}ww]_}_wM@@
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@Cuk@|wKpZA`UB_wLsUq}ww]_}_wM@x
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@Cuw@|wKpZA`UB_wLCIp}ww]_}_wM@x
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@CuwP}uKpZA`UB_wLCI@Ppw]_}_wM@x
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@CuwP}uC@pZA`UB_wLCI@P@Ap]_}_wM@|
+FL,904,8ff,8ff,700,8ff,8ff  
+DE,LED indicator boards. Level 2.5
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p903.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,90300
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXFLEATAX mpp DAY dd MTHC hh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2, This is an example of an LED bus sign. 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3, Using remap mode 7 with CLUT 2 and 3.  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,Q]                                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,Q]Z~}  } ~}   }   h }     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,Q]Z                         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,Q]Zo    ?           ~?     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,Q]Z      }0                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,Q]Z?    "} o? o? ?          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,Q]                                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,R]ZR} ~}             xt       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,R]RZ                           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,R]ZRw               b1       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,R]ZR                           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,R]ZR?                 +'       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,S]ZS                                    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,S]ZSu5u5u5u5 5u0                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@Cuk@|wKpZA`UB_wLsUq}ww]_}_wM@@
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@Cuk@|wKpZA`UB_wLsUq}ww]_}_wM@x
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@Cuw@|wKpZA`UB_wLCIp}ww]_}_wM@x
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@CuwP}uKpZA`UB_wLCI@Ppw]_}_wM@x
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@@@@CuwP}uC@pZA`UB_wLCI@P@Ap]_}_wM@|
 FL,904,8ff,8ff,700,8ff,8ff  
