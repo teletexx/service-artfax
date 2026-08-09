@@ -13,23 +13,485 @@ OL,4, A]B]S]D]E]F]G]P] @background
 OL,5,                                        
 OL,6,Wp                                  
 OL,7,W   sGWelcome to the Club!           
-OL,8,W                                       
-OL,9,W   0tx                                
-OL,10,W    ` 0                                
-OL,11,W     p                                 
-OL,12,W    ppp                                
-OL,13,W   4$ (                                
-OL,14,W   $###(                               
-OL,15,W    h 4                                
-OL,16,W                                       
-OL,17,W                                       
-OL,18,W                                       
-OL,19,W        ?{<{                           
-OL,20,W        55                           
-OL,21,W        uu                           
-OL,22,W        "##!                           
+OL,8,W            |                          
+OL,9,W   0tx`  pvsyp  w{                    
+OL,10,W   b` 01 j$$$$$5  `ppp0  `,,,,,,,,d    
+OL,11,W   h p 4 j!  !5`0}`0jj+j{j;j{j    
+OL,12,W   "tpx! #######j=}mnu&*.***** j    
+OL,13,W  h4$ (h6q        o%xq&########!    
+OL,14,W  ($3sc($R,      x}0         
+OL,15,W    y v   R,                     
+OL,16,W     BIN  VOTEFACE                   
+OL,17,W         `0`vyp                      
+OL,18,W        ,-.,(|l                       
+OL,19,W        ?{?{j5       (4             
+OL,20,W        55j5    BMN 5YEAR          
+OL,21,W        55j}?                       
+OL,22,W        +//'                        
 OL,23,W                                       
-OL,28, This is level 2.5 mode 1               
+OL,28, ]DVielen Gruss von Mootlie             
+FL,138,8ff,8ff,700,8ff,8ff                                        
+DE,Sofa Club 9th August 2026 - Level 2.5
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p137.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,13700
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,    XXXXARTFAX mpp DAY dd MTH C hh:nn:ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,Attention! Level 2.5 palette.           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,   1 2 3 4 5 6 7 0                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,Q^RRSTUVWP@Foreground           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, A]B]S]D]E]F]G]P] @background           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,Wp                                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,W   sGWelcome to the Club!           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,W   0tx                                
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,W    `                                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,W        k                             
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,W                                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,W                                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,W        "##                            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28, This is level 2.5 mode 1               
+FL,138,8ff,8ff,700,8ff,8ff                                        
+DE,Sofa Club 9th August 2026 - Level 2.5
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p137.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,13700
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,    XXXXARTFAX mpp DAY dd MTH C hh:nn:ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,Attention! Level 2.5 palette.           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,   1 2 3 4 5 6 7 0                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,Q^RRSTUVWP@Foreground           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, A]B]S]D]E]F]G]P] @background           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,Wp                                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,W   sGWelcome to the Club!           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,W   0tx                                
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,W    ` 0                                
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,W     p                                 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,W    ppp                                
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,W   4$ (h                               
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,W   $###(                               
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,W    x t                                
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,W        ,,                             
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,W        ?{?{                           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,W        55                           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,W        uu                           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,W        "##!                           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28, This is level 2.5 mode 1               
+FL,138,8ff,8ff,700,8ff,8ff                                        
+DE,Sofa Club 9th August 2026 - Level 2.5
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p137.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,13700
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,    XXXXARTFAX mpp DAY dd MTH C hh:nn:ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,Attention! Level 2.5 palette.           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,   1 2 3 4 5 6 7 0                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,Q^RRSTUVWP@Foreground           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, A]B]S]D]E]F]G]P] @background           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,Wp                                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,W   sGWelcome to the Club!           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,W   0tx                                
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,W    `                                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,W        k                             
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,W                                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,W                                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,W        "##                            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28, This is level 2.5 mode 1               
+FL,138,8ff,8ff,700,8ff,8ff                                        
+DE,Sofa Club 9th August 2026 - Level 2.5
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p137.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,13700
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,    XXXXARTFAX mpp DAY dd MTH C hh:nn:ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,Attention! Level 2.5 palette.           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,   1 2 3 4 5 6 7 0                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,Q^RRSTUVWP@Foreground           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, A]B]S]D]E]F]G]P] @background           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,Wp                                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,W   sGWelcome to the Club!           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,W   0tx`  ppppp  w{ w{                 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,W   b` 01 j$$$$$5                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,W   h p 4 j                j+"          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,W   "tpx! ##### !          *.           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,W  h4$ (h6q                             
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,W  ($3sc($R,                            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,W    y v   R,                           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,W         `0`vyp                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,W        ,-.,(ll                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,W        ?{?{j5                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,W        55j5                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,W        55j}?                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,W        +//'                           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28, This is level 2.5 mode 1               
+FL,138,8ff,8ff,700,8ff,8ff                                        
+DE,Sofa Club 9th August 2026 - Level 2.5
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p137.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,13700
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,    XXXXARTFAX mpp DAY dd MTH C hh:nn:ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,Attention! Level 2.5 palette.           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,   1 2 3 4 5 6 7 0                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,Q^RRSTUVWP@Foreground           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, A]B]S]D]E]F]G]P] @background           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,Wp                                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,W   sGWelcome to the Club!           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,W   0tx                                
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,W    `                                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,W        k                             
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,W                                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,W                                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,W        "##                            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28, This is level 2.5 mode 1               
+FL,138,8ff,8ff,700,8ff,8ff                                        
+DE,Sofa Club 9th August 2026 - Level 2.5
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p137.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,13700
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,    XXXXARTFAX mpp DAY dd MTH C hh:nn:ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,Attention! Level 2.5 palette.           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,   1 2 3 4 5 6 7 0                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,Q^RRSTUVWP@Foreground           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, A]B]S]D]E]F]G]P] @background           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,Wp                                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,W   sGWelcome to the Club!           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,W   0tx                                
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,W    ` 0                                
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,W     p                                 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,W    ppp                                
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,W   4$ (h                               
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,W   $###(                               
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,W    x t                                
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,W        ,,                             
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,W        ?{?{                           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,W        55                           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,W        uu                           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,W        "##!                           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28, This is level 2.5 mode 1               
+FL,138,8ff,8ff,700,8ff,8ff                                        
+DE,Sofa Club 9th August 2026 - Level 2.5
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p137.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,13700
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,    XXXXARTFAX mpp DAY dd MTH C hh:nn:ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,Attention! Level 2.5 palette.           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,   1 2 3 4 5 6 7 0                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,Q^RRSTUVWP@Foreground           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, A]B]S]D]E]F]G]P] @background           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,Wp                                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,W   sGWelcome to the Club!           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,W   0tx                                
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,W    `                                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,W        k                             
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,W                                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,W                                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,W        "##                            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28, This is level 2.5 mode 1               
+FL,138,8ff,8ff,700,8ff,8ff                                        
+DE,Sofa Club 9th August 2026 - Level 2.5
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p137.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,13700
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,    XXXXARTFAX mpp DAY dd MTH C hh:nn:ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,Attention! Level 2.5 palette.           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,   1 2 3 4 5 6 7 0                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,Q^RRSTUVWP@Foreground           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, A]B]S]D]E]F]G]P] @background           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,Wp                                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,W   sGWelcome to the Club!           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,W            |                          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,W   0tx`  pvsyp  w{                    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,W   b` 01 j$$$$$5         `,,,,,,,,d    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,W   h p 4 j!  !5         jj+j;j{j{j    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,W   "tpx! #######        `&*.***** j    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,W  h4$ (h6q             xq&########!    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,W  ($3sc($R,                            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,W    y v   R,                           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,W     BIN  OTEFACE                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,W         `0`vyp                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,W        ,-.,(|l                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,W        ?{?{j5                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,W        55j5                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,W        55j}?                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,W        +//'                           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28, This is level 2.5 mode 1               
+FL,138,8ff,8ff,700,8ff,8ff                                        
+DE,Sofa Club 9th August 2026 - Level 2.5
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p137.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,13700
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,    XXXXARTFAX mpp DAY dd MTH C hh:nn:ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,Attention! Level 2.5 palette.           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,   1 2 3 4 5 6 7 0                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,Q^RRSTUVWP@Foreground           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, A]B]S]D]E]F]G]P] @background           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,Wp                                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,W   sGWelcome to the Club!           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,W   0tx                                
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,W    `                                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,W        k                             
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,W                                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,W                                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,W        "##                            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28, This is level 2.5 mode 1               
+FL,138,8ff,8ff,700,8ff,8ff                                        
+DE,Sofa Club 9th August 2026 - Level 2.5
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p137.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,13700
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,    XXXXARTFAX mpp DAY dd MTH C hh:nn:ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,Attention! Level 2.5 palette.           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,   1 2 3 4 5 6 7 0                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,Q^RRSTUVWP@Foreground           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, A]B]S]D]E]F]G]P] @background           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,Wp                                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,W   sGWelcome to the Club!           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,W   0tx                                
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,W    ` 0                                
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,W     p                                 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,W    ppp                                
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,W   4$ (h                               
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,W   $###(                               
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,W    x t                                
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,W        ,,                             
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,W        ?{?{                           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,W        55                           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,W        uu                           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,W        "##!                           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28, This is level 2.5 mode 1               
+FL,138,8ff,8ff,700,8ff,8ff                                        
+DE,Sofa Club 9th August 2026 - Level 2.5
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p137.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,13700
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,    XXXXARTFAX mpp DAY dd MTH C hh:nn:ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,Attention! Level 2.5 palette.           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,   1 2 3 4 5 6 7 0                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,Q^RRSTUVWP@Foreground           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, A]B]S]D]E]F]G]P] @background           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,Wp                                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,W   sGWelcome to the Club!           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,W   0tx                                
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,W    `                                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,W        k                             
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,W                                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,W                                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,W        "##                            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28, This is level 2.5 mode 1               
+FL,138,8ff,8ff,700,8ff,8ff                                        
+DE,Sofa Club 9th August 2026 - Level 2.5
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p137.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,13700
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,    XXXXARTFAX mpp DAY dd MTH C hh:nn:ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,Attention! Level 2.5 palette.           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,   1 2 3 4 5 6 7 0                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,Q^RRSTUVWP@Foreground           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, A]B]S]D]E]F]G]P] @background           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,Wp                                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,W   sGWelcome to the Club!           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,W   0tx`  ppppp  w{ w{                 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,W   b` 01 j$$$$$5                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,W   h p 4 j                j+"          
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,W   "tpx! ##### !          *.           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,W  h4$ (h6q                             
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,W  ($3sc($R,                            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,W    y v   R,                           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,W         `0`vyp                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,W        ,-.,(ll                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,W        ?{?{j5                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,W        55j5                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,W        55j}?                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,W        +//'                           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28, This is level 2.5 mode 1               
+FL,138,8ff,8ff,700,8ff,8ff                                        
+DE,Sofa Club 9th August 2026 - Level 2.5
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p137.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,13700
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,    XXXXARTFAX mpp DAY dd MTH C hh:nn:ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,Attention! Level 2.5 palette.           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,   1 2 3 4 5 6 7 0                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,Q^RRSTUVWP@Foreground           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, A]B]S]D]E]F]G]P] @background           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,Wp                                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,W   sGWelcome to the Club!           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,W   0tx                                
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,W    `                                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,W        k                             
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,W                                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,W                                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,W        "##                            
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28, This is level 2.5 mode 1               
+FL,138,8ff,8ff,700,8ff,8ff                                        
+DE,Sofa Club 9th August 2026 - Level 2.5
+DS,Muttlee
+SP,/var/www/private/onair/artfax/p137.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,13700
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,    XXXXARTFAX mpp DAY dd MTH C hh:nn:ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,Attention! Level 2.5 palette.           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,   1 2 3 4 5 6 7 0                      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,Q^RRSTUVWP@Foreground           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4, A]B]S]D]E]F]G]P] @background           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,Wp                                  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,W   sGWelcome to the Club!           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,W   0tx                                
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,W    ` 0                                
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,W     p                                 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,W    ppp                                
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,W   4$ (h                               
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,W   $###(                               
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,W    x t                                
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,W        ,,                             
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,W        ?{?{                           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,W        55                           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,W        uu                           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,W        "##!                           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,W                                       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28, This is level 2.5 mode 1               
 FL,138,8ff,8ff,700,8ff,8ff                                        
 DE,Sofa Club 9th August 2026 - Level 2.5
 DS,Muttlee
