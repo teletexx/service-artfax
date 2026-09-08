@@ -1,34 +1,32 @@
-DE,Placeholder
-DS,Muttlee
-SP,/var/www/private/onair/artfax/p401.tti
+PN,40101
+DE,Wim DeWijngaert
+FL,
 CT,8,T
-PN,40100
-SC,0000
-PS,8000
-RE,0
-OL,0,                                        
-OL,1,                                        
-OL,2,                                        
-OL,3,     Placeholder                        
-OL,4,                                        
-OL,5,                                        
-OL,6,                                        
-OL,7,                                        
-OL,8,                                        
-OL,9,                                        
-OL,10,                                        
-OL,11,                                        
-OL,12,                                        
-OL,13,                                        
-OL,14,                                        
-OL,15,                                        
-OL,16,                                    
-OL,17,                                        
-OL,18,                                        
-OL,19,                                        
-OL,20,                                        
-OL,21,                                        
-OL,22,                                        
-OL,23,                                        
-OL,24,A Next   B....       C....      FHelp   
-FL,402,8ff,8ff,700,8ff,8ff  
+DS,inserter
+PS,C000
+SC,0001
+OL,0,OK                                      
+OL,1,Q55"o%Wp|]D    YLE TEXT ^W\|p Qo?!jj
+OL,2,Q5?`4Wx~]Rp0   pp U j/     W^\}t Q oj
+OL,3,Q5 W`~]^R###$ &##U n? Q#+$ .#WW\}0 Qj
+OL,4,Q7'Wh^\c|vkc|vk_c|vkc|vk4Q*~
+OL,5,Q5Whok57k557k553c553c54Qh
+OL,6,QW` "jr-gz{r-gzr/gzkr/gz0 
+OL,7,QW~}h]Rx]Wpq0 "]^Qj]W Ibsp QW"\+*m 
+OL,8,Wz6]Rz]Q\p^RW]_Q^\UpQxW\?`xu
+OL,9,W^|R~]^s sW\|Q]S    ^ WQsW\y~]T  
+OL,10,W]U j/Rz]( W`Vn$ W]Qj]Sn$W]       U `p  
+OL,11,W]Un?Rh]Vn$W~R^xVW]Qj]S  W]Qpp0 WU `z#  
+OL,12,W]  Rh]Vx0W~?Vp<'W]Qj]Sx~/# x?'W+]U+'   
+OL,13,W] R`]V bp|/'cq|]W/]S]Qp|?#`|]W"]U    
+OL,14,W] R]Vx.#qp|>/'qx|^W]Q#/S/Qo]S(  Wj]U j/
+OL,15,W] V]R/cpx~/'#px~]W ]U  p0  Q]S`tW ]Un? 
+OL,16,Wk] V#^R#V/R]V0 Wpx]U p7! _Qj]S!W ]^\7
+OL,17,W o]U j/   R]V"' W] QU"/!  Q ]Sx0W`^\? 
+OL,18,W "]Un?    R]V  !W] Qpppp  `~]S"pWz^\! 
+OL,19,S+W*]U   j/R]Vp|]W]Q~] ^  S0  x]W]\_%Sh
+OL,20,Q}tW*]U n? Vo]R!W`]Q]  Sn$!p|]^W`~\% S.
+OL,21,QhW"o5:]Q"o] Sx~^]W`x\?! Qx
+OL,22,Q40W+oj5euo?'Q`~h
+OL,23,Qj}*}0 W#/]S|h5 ^Q|5 ]Wk\/# Q`~%~k
+OL,24,W      ]                                
