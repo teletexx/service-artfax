@@ -1,11 +1,12 @@
-PN,40101
-DE,Wim DeWijngaert                AQ                      
-FL,
-CT,8,T
+DE,Wim DeWijngaert
 DS,inserter
-PS,C000
-SC,0001
-OL,0,OK                                      
+SP,C:\Users\tamar\Documents\peter\block26\art comp\p401.tti
+PN,40100
+SC,0000
+PS,8000
+CT,8,T
+OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,0,ARTFAX  BLOCKTOBERFEST 2026    C%H:%M:%S
 OL,1,Q55"o%Wp|]D    YLE TEXT ^W\|p Qo?!jj
 OL,2,Q5?`4Wx~]Rp0   pp U j/     W^\}t Q oj
 OL,3,Q5 W`~]^R###$ &##U n? Q#+$ .#WW\}0 Qj
@@ -30,3 +31,4 @@ OL,21,QhW"o5:]Q"o] Sx~^]W`x\?! Qx
 OL,22,Q40W+oj5euo?'Q`~h
 OL,23,Qj}*}0 W#/]S|h5 ^Q|5 ]Wk\/# Q`~%~k
 OL,24,W      ]                                
+FL,402,400,8ff,400,0,8ff
