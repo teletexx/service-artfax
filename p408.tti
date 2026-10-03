@@ -1,33 +1,26 @@
-DE,Topic: Created by user
-DS,Muttlee
-SP,/var/www/private/onair/artfax/p408.tti
-CT,8,T
+DE,Cohen - Green man
+DS,inserter
+SP,C:\Users\tamar\Documents\peter\block26\art comp\p408.tti
 PN,40800
 SC,0000
 PS,8000
-OL,0,XXXXXXXXWT-FAX mpp DAY dd MTH C hh:nn.ss
-OL,1,Q73#35R7ss35S7sskT]C| Wiki |FFacts at  |
-OL,2,Q55555R5 5 5S5=$jT]C| Tel  |Fyour      |
-OL,3,Qussq5Rupqp5SuqpzT]C| Fax  |Ffingertips|
-OL,4,MTemplate                               
-OL,5,Q                                       
-OL,6, ```````````````````````````````````````
-OL,7,CTemplateGhighlights other entries in   
-OL,8,CyellowGwith the first paragraph white. 
-OL,9,F                                       
-OL,10,FSubsequent paragraphs should be cyan.  
-OL,11,FThe last line is reserved for Fastext  
-OL,12, To find out more about editing, press  
-OL,13, theFcyanGbutton.                       
-OL,14,F                                       
-OL,15,F                                       
-OL,16,M  NOW PRESSHESCAPEIAND EDIT THIS   
-OL,17,F                                       
-OL,18,F                                       
-OL,19,F                                       
-OL,20,F                                       
-OL,21,F  PRO TIP: To clear the screen, press  
-OL,22,F           Escape then Z               
-OL,23,F                                       
-OL,24,A Next   B....       C....      FHelp   
-FL,409,8ff,8ff,700,8ff,100  
+CT,8,T
+OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,0,                                        
+OL,6,R                                       
+OL,7,R                               
+OL,8,R                               
+OL,9,R           ]T    \                   
+OL,10,R                               
+OL,11,R                               
+OL,12,R                                 
+OL,13,R                                 
+OL,14,R                           
+OL,15,R                               
+OL,16,R                                 
+OL,17,R                                   
+OL,18,R                                   
+OL,19,R                                   
+OL,20,R                                   
+OL,21,R                                     
+FL,409,400,8ff,100,8ff,8ff
