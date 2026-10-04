@@ -6,7 +6,7 @@ CT,8,T
 PN,40000
 SC,0000
 PS,8000
-OL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
+OL,0,  XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.
 OL,1,D]MCBlocktoberfest 2026                 
 OL,2,                                        
 OL,3,                                        
@@ -31,5 +31,110 @@ OL,21,MBest Overall....Elite skillz
 OL,22,                                        
 OL,23,CWhat impresses the judge the most      
 OL,24,A Next   B....       C....      FHelp   
+FL,401,8ff,8ff,700,8ff,8ff  
+
+DE,Blocktoberfest Art Competition
+DS,Muttlee
+LK,
+SP,/var/www/private/onair/artfax/p400.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,40000
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,D]MCBlocktoberfest 2026                 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,FBlocktoberfest 2026CArt Competition    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,FThe competition entries can be viewed  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,Ffrom page 401 onwards.                 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,FThe three categories are:              
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,MChunk Award.....Capture the essence    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,CCapture the retro feel of the medium   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,MThe Next Level..Technical excellence   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,CThe next level is 2.5, obviously       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,MAnalog Hero.....Look mum, no computer  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,CNo excuses. Anyone can draw on paper   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,Fand an overall category:               
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,MBest Overall....Elite skillz           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,CWhat impresses the judge the most      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
+FL,401,8ff,8ff,700,8ff,8ff  
+
+DE,Blocktoberfest Art Competition
+DS,Muttlee
+LK,
+SP,/var/www/private/onair/artfax/p400.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,40000
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,  XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,D]MCBlocktoberfest 2026                 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,FBlocktoberfest 2026CArt Competition    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,FThe competition entries can be viewed  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,Ffrom page 401 onwards.                 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,FThe three categories are:              
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,MChunk Award.....Capture the essence    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,CCapture the retro feel of the medium   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,MThe Next Level..Technical excellence   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,CThe next level is 2.5, obviously       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,MAnalog Hero.....Look mum, no computer  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,CNo excuses. Anyone can draw on paper   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,Fand an overall category:               
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,MBest Overall....Elite skillz           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,CWhat impresses the judge the most      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
+FL,401,8ff,8ff,700,8ff,8ff  
+
+DE,Blocktoberfest Art Competition
+DS,Muttlee
+LK,
+SP,/var/www/private/onair/artfax/p400.tti
+CT,8,T
+RM,1,INVALID PN. MARKED FOR DELETIONPN,40000
+SC,0000
+PS,8000
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,D]MCBlocktoberfest 2026                 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,FBlocktoberfest 2026CArt Competition    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,FThe competition entries can be viewed  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,Ffrom page 401 onwards.                 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,FThe three categories are:              
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,MChunk Award.....Capture the essence    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,CCapture the retro feel of the medium   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,MThe Next Level..Technical excellence   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,CThe next level is 2.5, obviously       
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,MAnalog Hero.....Look mum, no computer  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,CNo excuses. Anyone can draw on paper   
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,Fand an overall category:               
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,MBest Overall....Elite skillz           
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,                                        
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,CWhat impresses the judge the most      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
 FL,401,8ff,8ff,700,8ff,8ff  
 
